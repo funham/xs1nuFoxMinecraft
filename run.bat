@@ -1,6 +1,6 @@
 git fetch
 git pull
-java -Xms1G -Xmx1G -jar server.jar nogui
+java -Xms4G -Xmx4G -jar server.jar nogui
 git add .
 git commit -m "saved"
 git push
