@@ -395,6 +395,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2022-06-21 08:07:53 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2022-06-20 14:36:24 -0700"
@@ -949,6 +955,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2022-06-21 08:07:53 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2022-06-01 13:31:12 -0700"
@@ -1465,6 +1477,12 @@
   "minecraft:adventure/play_jukebox_in_meadows": {
     "criteria": {
       "play_jukebox_in_meadows": "2022-06-14 16:25:11 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2022-06-21 08:07:53 -0700"
     },
     "done": true
   },
