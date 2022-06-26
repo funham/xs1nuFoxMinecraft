@@ -173,6 +173,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2022-06-27 00:38:12 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2022-06-01 23:29:07 +0300"
@@ -353,6 +359,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2022-06-27 00:30:58 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2022-06-01 23:50:06 +0300"
@@ -464,6 +476,12 @@
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_the_recipe": "2022-06-03 04:32:15 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_nether_gold_ore": {
+    "criteria": {
+      "has_nether_gold_ore": "2022-06-27 00:02:22 +0300"
     },
     "done": true
   },
@@ -775,6 +793,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2022-06-27 00:31:52 +0300",
       "minecraft:skeleton": "2022-06-02 23:32:41 +0300",
       "minecraft:ghast": "2022-06-21 05:04:43 +0300",
       "minecraft:magma_cube": "2022-06-21 05:25:15 +0300",
@@ -1604,6 +1623,12 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2022-06-26 23:31:09 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2022-06-01 23:29:21 +0300"
@@ -2006,6 +2031,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
     "criteria": {
       "has_deepslate_tiles": "2022-06-25 03:08:18 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_nether_gold_ore": {
+    "criteria": {
+      "has_nether_gold_ore": "2022-06-27 00:02:22 +0300"
     },
     "done": true
   },
@@ -2676,6 +2707,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2022-06-02 23:13:14 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2022-06-27 00:30:58 +0300"
     },
     "done": true
   },
