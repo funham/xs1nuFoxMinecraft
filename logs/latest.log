@@ -1,62 +1,212 @@
-[00:00:09] [User Authenticator #3/INFO]: UUID of player xs1nus is c0827102-a2f3-45e2-b4ea-86f5bd0c5075
-[00:00:09] [Server thread/INFO]: xs1nus[/192.168.0.114:50676] logged in with entity id 19276 at (-75.28707349758336, 27.286881918878397, -33.78825693764433)
-[00:00:09] [Server thread/INFO]: xs1nus joined the game
-[00:00:13] [Server thread/INFO]: xs1nus lost connection: Disconnected
-[00:00:13] [Server thread/INFO]: xs1nus left the game
-[00:00:31] [User Authenticator #4/INFO]: UUID of player xs1nus is c0827102-a2f3-45e2-b4ea-86f5bd0c5075
-[00:00:31] [Server thread/INFO]: xs1nus[/192.168.0.114:50684] logged in with entity id 19308 at (-75.28707349758336, 24.0, -33.78825693764433)
-[00:00:31] [Server thread/INFO]: xs1nus joined the game
-[00:00:37] [Server thread/INFO]: xs1nus lost connection: Disconnected
-[00:00:37] [Server thread/INFO]: xs1nus left the game
-[00:01:56] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-76, y=36, z=-68} gj{x=-76, y=36, z=-70}
-[00:04:24] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-62, y=37, z=-6} gj{x=-61, y=36, z=-4}
-[00:04:24] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-62, y=37, z=-6} gj{x=-61, y=36, z=-4}
-[00:07:51] [Server thread/INFO]: fnhmm was slain by Piglin
-[00:09:42] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-25, y=34, z=78} gj{x=-25, y=32, z=79}
-[00:09:43] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-25, y=35, z=80} gj{x=-24, y=35, z=81}
-[00:10:14] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-45, y=37, z=89} gj{x=-47, y=36, z=89}
-[00:14:55] [Server thread/INFO]: Villager bnw['Fletcher'/21371, l='ServerLevel[xs1nuFox]', x=-183.30, y=84.00, z=-38.30] died, message: 'Fletcher burned to death'
-[00:19:13] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-57, y=33, z=123} gj{x=-58, y=32, z=123}
-[00:19:14] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-58, y=33, z=123} gj{x=-58, y=32, z=123}
-[00:19:14] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-58, y=33, z=123} gj{x=-58, y=32, z=123}
-[00:19:14] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-58, y=33, z=123} gj{x=-58, y=32, z=123}
-[00:19:14] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-58, y=33, z=123} gj{x=-58, y=32, z=123}
-[00:19:14] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-58, y=33, z=123} gj{x=-58, y=32, z=123}
-[00:24:59] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-77, y=24, z=-35} gj{x=-77, y=23, z=-35}
-[00:24:59] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-77, y=24, z=-35} gj{x=-77, y=23, z=-35}
-[00:24:59] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-77, y=24, z=-35} gj{x=-77, y=23, z=-35}
-[00:25:00] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-77, y=24, z=-36} gj{x=-77, y=23, z=-36}
-[00:27:04] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-79, y=24, z=-32} gj{x=-79, y=23, z=-32}
-[00:27:05] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-79, y=25, z=-32} gj{x=-79, y=24, z=-32}
-[00:27:05] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-79, y=25, z=-32} gj{x=-79, y=24, z=-32}
-[00:27:11] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-76, y=24, z=-32} gj{x=-76, y=23, z=-32}
-[00:27:53] [User Authenticator #5/INFO]: UUID of player xs1nus is c0827102-a2f3-45e2-b4ea-86f5bd0c5075
-[00:27:53] [Server thread/INFO]: xs1nus[/192.168.0.114:52016] logged in with entity id 25031 at (-75.28707349758336, 25.990794855825605, -33.78825693764433)
-[00:27:53] [Server thread/INFO]: xs1nus joined the game
-[00:27:56] [Server thread/INFO]: xs1nus lost connection: Disconnected
-[00:27:56] [Server thread/INFO]: xs1nus left the game
-[00:28:10] [User Authenticator #6/INFO]: UUID of player xs1nus is c0827102-a2f3-45e2-b4ea-86f5bd0c5075
-[00:28:10] [Server thread/INFO]: xs1nus[/192.168.0.114:52031] logged in with entity id 25052 at (-75.28707349758336, 25.0, -33.78825693764433)
-[00:28:10] [Server thread/INFO]: xs1nus joined the game
-[00:28:23] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-75, y=24, z=-32} gj{x=-75, y=23, z=-32}
-[00:28:23] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-75, y=24, z=-32} gj{x=-75, y=23, z=-32}
-[00:28:24] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-75, y=24, z=-32} gj{x=-75, y=23, z=-32}
-[00:36:55] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-60, y=72, z=8} gj{x=-126, y=75, z=-50}
-[00:36:55] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-60, y=72, z=8} gj{x=-126, y=75, z=-50}
-[00:41:42] [Server thread/INFO]: Villager bnw['Leatherworker'/26759, l='ServerLevel[xs1nuFox]', x=-1220.87, y=111.00, z=-503.65] died, message: 'Leatherworker burned to death'
-[00:41:49] [Server thread/INFO]: Villager bnw['Shepherd'/26718, l='ServerLevel[xs1nuFox]', x=-1215.70, y=102.94, z=-503.30] died, message: 'Shepherd tried to swim in lava'
-[00:46:28] [Server thread/INFO]: xs1nus lost connection: Disconnected
-[00:46:28] [Server thread/INFO]: xs1nus left the game
-[01:09:47] [Server thread/INFO]: fnhmm lost connection: Disconnected
-[01:09:47] [Server thread/INFO]: fnhmm left the game
-[01:09:52] [Server thread/INFO]: Stopping the server
-[01:09:52] [Server thread/INFO]: Stopping server
-[01:09:52] [Server thread/INFO]: Saving players
-[01:09:52] [Server thread/INFO]: Saving worlds
-[01:09:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:overworld
-[01:09:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:the_nether
-[01:09:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:the_end
-[01:09:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:09:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:09:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:09:53] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01:12:06] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[01:12:09] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:12:09] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:12:09] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[01:12:09] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[01:12:09] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:12:10] [Worker-Main-16/INFO]: Loaded 7 recipes
+[01:12:11] [Worker-Main-16/INFO]: Loaded 1141 advancements
+[01:12:14] [Server thread/INFO]: Starting minecraft server version 1.18.2
+[01:12:14] [Server thread/INFO]: Loading properties
+[01:12:14] [Server thread/INFO]: Default game type: SURVIVAL
+[01:12:14] [Server thread/INFO]: Generating keypair
+[01:12:14] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:12:14] [Server thread/INFO]: Using default channel type
+[01:12:15] [Server thread/INFO]: Preparing level "world"
+[01:12:15] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:12:17] [Worker-Main-25/INFO]: Preparing spawn area: 0%
+[01:12:17] [Worker-Main-27/INFO]: Preparing spawn area: 0%
+[01:12:17] [Worker-Main-27/INFO]: Preparing spawn area: 0%
+[01:12:17] [Worker-Main-28/INFO]: Preparing spawn area: 0%
+[01:12:17] [Worker-Main-27/INFO]: Preparing spawn area: 0%
+[01:12:18] [Worker-Main-22/INFO]: Preparing spawn area: 0%
+[01:12:18] [Worker-Main-27/INFO]: Preparing spawn area: 0%
+[01:12:19] [Worker-Main-26/INFO]: Preparing spawn area: 0%
+[01:12:19] [Worker-Main-28/INFO]: Preparing spawn area: 0%
+[01:12:20] [Worker-Main-18/INFO]: Preparing spawn area: 0%
+[01:12:20] [Worker-Main-17/INFO]: Preparing spawn area: 0%
+[01:12:21] [Worker-Main-26/INFO]: Preparing spawn area: 1%
+[01:12:21] [Worker-Main-26/INFO]: Preparing spawn area: 1%
+[01:12:22] [Worker-Main-17/INFO]: Preparing spawn area: 10%
+[01:12:22] [Worker-Main-28/INFO]: Preparing spawn area: 10%
+[01:12:23] [Worker-Main-27/INFO]: Preparing spawn area: 10%
+[01:12:23] [Worker-Main-23/INFO]: Preparing spawn area: 48%
+[01:12:24] [Worker-Main-21/INFO]: Preparing spawn area: 81%
+[01:12:25] [Server thread/INFO]: Time elapsed: 9496 ms
+[01:12:25] [Server thread/INFO]: Done (9.740s)! For help, type "help"
+[01:29:44] [User Authenticator #1/INFO]: UUID of player fnhmm is 7d41e46d-8d8e-44fb-b7cd-fa872df06901
+[01:29:44] [Server thread/INFO]: fnhmm[/25.71.206.46:61202] logged in with entity id 89 at (-72.30469539897533, 45.0, 38.21712821301639)
+[01:29:44] [Server thread/INFO]: fnhmm joined the game
+[01:45:53] [Server thread/INFO]: fnhmm has made the advancement [War Pigs]
+[01:46:02] [Server thread/INFO]: fnhmm has made the advancement [Hidden in the Depths]
+[01:47:54] [Server thread/INFO]: fnhmm was slain by Piglin Brute
+[01:50:24] [Server thread/INFO]: fnhmm was slain by Piglin Brute
+[02:09:57] [Server thread/INFO]: fnhmm was slain by Piglin Brute
+[02:11:43] [Server thread/INFO]: fnhmm lost connection: Disconnected
+[02:11:43] [Server thread/INFO]: fnhmm left the game
+[02:19:18] [User Authenticator #2/INFO]: UUID of player fnhmm is 7d41e46d-8d8e-44fb-b7cd-fa872df06901
+[02:19:18] [Server thread/INFO]: fnhmm[/25.71.206.46:64617] logged in with entity id 8651 at (-123.28316453758073, 33.0, 81.88387008075715)
+[02:19:18] [Server thread/INFO]: fnhmm joined the game
+[02:20:25] [Server thread/INFO]: fnhmm was slain by Piglin Brute
+[02:21:40] [Server thread/INFO]: fnhmm was slain by Hoglin
+[02:22:58] [Server thread/INFO]: fnhmm was slain by Hoglin
+[02:24:34] [Server thread/INFO]: fnhmm was slain by Hoglin
+[02:49:54] [Server thread/INFO]: fnhmm was slain by Enderman
+[02:50:39] [Server thread/INFO]: fnhmm was slain by Piglin
+[03:27:51] [Server thread/INFO]: fnhmm has made the advancement [Surge Protector]
+[04:01:03] [Server thread/INFO]: Villager bnw['Farmer'/18223, l='ServerLevel[xs1nuFox]', x=-1253.10, y=96.00, z=-560.58] died, message: 'Farmer burned to death'
+[04:21:22] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-310, y=17, z=-19} gj{x=-313, y=18, z=-19}
+[04:21:22] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-310, y=17, z=-19} gj{x=-313, y=18, z=-19}
+[04:21:22] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-310, y=17, z=-19} gj{x=-313, y=18, z=-19}
+[04:36:02] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-406, y=14, z=-20} gj{x=-406, y=13, z=-20}
+[04:36:07] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-412, y=12, z=-21} gj{x=-411, y=13, z=-20}
+[04:36:07] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-412, y=12, z=-21} gj{x=-411, y=13, z=-20}
+[04:36:07] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-412, y=12, z=-21} gj{x=-411, y=13, z=-20}
+[04:46:31] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-408, y=13, z=-18} gj{x=-409, y=13, z=-18}
+[04:46:31] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-408, y=13, z=-18} gj{x=-409, y=13, z=-18}
+[04:46:31] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-408, y=13, z=-18} gj{x=-409, y=13, z=-18}
+[04:46:31] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-408, y=13, z=-18} gj{x=-409, y=13, z=-18}
+[04:46:31] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-408, y=13, z=-18} gj{x=-409, y=13, z=-18}
+[04:46:54] [Server thread/INFO]: fnhmm was killed by [Intentional Game Design]
+[04:48:34] [Server thread/INFO]: fnhmm was slain by Piglin
+[05:13:29] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-287, y=39, z=-44} gj{x=-286, y=40, z=-44}
+[05:13:29] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-287, y=39, z=-44} gj{x=-286, y=40, z=-44}
+[05:13:30] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-287, y=39, z=-44} gj{x=-286, y=40, z=-44}
+[05:13:30] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-287, y=39, z=-44} gj{x=-286, y=40, z=-44}
+[05:13:30] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-287, y=39, z=-44} gj{x=-286, y=40, z=-44}
+[05:13:30] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-287, y=39, z=-44} gj{x=-286, y=40, z=-44}
+[05:13:30] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-287, y=39, z=-44} gj{x=-286, y=40, z=-44}
+[05:13:30] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-284, y=42, z=-44} gj{x=-283, y=43, z=-44}
+[05:13:30] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-284, y=42, z=-44} gj{x=-283, y=43, z=-44}
+[05:13:31] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-284, y=42, z=-44} gj{x=-283, y=43, z=-44}
+[05:13:31] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-285, y=41, z=-44} gj{x=-284, y=42, z=-44}
+[05:13:31] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-285, y=41, z=-44} gj{x=-284, y=42, z=-44}
+[05:13:31] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-285, y=41, z=-44} gj{x=-284, y=42, z=-44}
+[05:14:07] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-317, y=29, z=-42} gj{x=-316, y=29, z=-42}
+[05:14:07] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-317, y=29, z=-42} gj{x=-316, y=29, z=-42}
+[05:14:09] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-320, y=27, z=-42} gj{x=-319, y=26, z=-42}
+[05:14:09] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-320, y=27, z=-42} gj{x=-319, y=26, z=-42}
+[05:14:09] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-320, y=27, z=-42} gj{x=-319, y=26, z=-42}
+[05:14:09] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-320, y=27, z=-42} gj{x=-319, y=26, z=-42}
+[05:14:09] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-320, y=27, z=-42} gj{x=-319, y=26, z=-42}
+[05:14:10] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-321, y=26, z=-42} gj{x=-319, y=26, z=-42}
+[05:14:10] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-321, y=26, z=-42} gj{x=-321, y=24, z=-42}
+[05:14:10] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-321, y=26, z=-42} gj{x=-321, y=24, z=-42}
+[05:14:10] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-321, y=26, z=-42} gj{x=-321, y=24, z=-42}
+[05:14:10] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-321, y=26, z=-42} gj{x=-321, y=24, z=-42}
+[05:14:10] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-322, y=25, z=-42} gj{x=-323, y=23, z=-42}
+[05:14:10] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-322, y=25, z=-42} gj{x=-323, y=23, z=-42}
+[05:14:11] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-323, y=24, z=-42} gj{x=-324, y=22, z=-42}
+[05:14:11] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-323, y=24, z=-42} gj{x=-324, y=22, z=-42}
+[05:14:11] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-324, y=23, z=-42} gj{x=-325, y=21, z=-42}
+[05:14:11] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-324, y=23, z=-42} gj{x=-325, y=21, z=-42}
+[05:14:12] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-325, y=22, z=-42} gj{x=-326, y=20, z=-42}
+[05:14:12] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-325, y=22, z=-42} gj{x=-326, y=20, z=-42}
+[05:14:12] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-326, y=21, z=-42} gj{x=-327, y=19, z=-42}
+[05:14:12] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-326, y=21, z=-42} gj{x=-327, y=19, z=-42}
+[05:22:49] [Server thread/INFO]: fnhmm was killed by [Intentional Game Design]
+[05:35:49] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-351, y=21, z=-46} gj{x=-352, y=20, z=-45}
+[05:35:49] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-351, y=21, z=-46} gj{x=-352, y=20, z=-45}
+[06:10:49] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-313, y=21, z=-27} gj{x=-315, y=19, z=-27}
+[06:10:49] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-313, y=21, z=-27} gj{x=-315, y=19, z=-27}
+[06:12:31] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-360, y=18, z=-26} gj{x=-360, y=18, z=-27}
+[06:12:31] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-360, y=18, z=-26} gj{x=-360, y=18, z=-27}
+[06:12:31] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-360, y=18, z=-26} gj{x=-360, y=18, z=-27}
+[06:12:31] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-360, y=18, z=-26} gj{x=-360, y=18, z=-27}
+[06:12:57] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-354, y=19, z=-33} gj{x=-363, y=18, z=-28}
+[06:12:57] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-354, y=19, z=-33} gj{x=-363, y=18, z=-28}
+[06:12:57] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-354, y=19, z=-33} gj{x=-363, y=18, z=-28}
+[06:12:57] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-354, y=19, z=-33} gj{x=-363, y=18, z=-28}
+[06:12:57] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-354, y=19, z=-33} gj{x=-363, y=18, z=-28}
+[06:13:00] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-363, y=19, z=-28} gj{x=-366, y=19, z=-28}
+[06:13:00] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-363, y=19, z=-28} gj{x=-366, y=19, z=-28}
+[06:13:00] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-363, y=19, z=-28} gj{x=-366, y=19, z=-28}
+[06:13:16] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-374, y=19, z=-28} gj{x=-375, y=18, z=-27}
+[06:13:16] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-374, y=19, z=-28} gj{x=-375, y=18, z=-27}
+[06:13:16] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-374, y=19, z=-28} gj{x=-375, y=18, z=-27}
+[06:16:24] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-391, y=17, z=-38} gj{x=-370, y=18, z=-47}
+[06:16:24] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-391, y=17, z=-38} gj{x=-370, y=18, z=-47}
+[06:16:24] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-391, y=17, z=-38} gj{x=-370, y=18, z=-47}
+[06:16:24] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-391, y=17, z=-38} gj{x=-370, y=18, z=-47}
+[06:16:24] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-391, y=17, z=-38} gj{x=-370, y=18, z=-47}
+[06:16:24] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-391, y=17, z=-38} gj{x=-370, y=18, z=-47}
+[06:16:24] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-391, y=17, z=-38} gj{x=-370, y=18, z=-47}
+[06:16:24] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-391, y=17, z=-38} gj{x=-370, y=18, z=-47}
+[06:16:24] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-391, y=17, z=-38} gj{x=-370, y=18, z=-47}
+[06:16:25] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-391, y=17, z=-38} gj{x=-370, y=18, z=-47}
+[06:17:57] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-373, y=19, z=-55} gj{x=-373, y=19, z=-54}
+[06:17:57] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-373, y=19, z=-55} gj{x=-373, y=19, z=-54}
+[06:17:58] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-373, y=19, z=-55} gj{x=-373, y=19, z=-54}
+[06:17:58] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-373, y=19, z=-55} gj{x=-373, y=19, z=-54}
+[06:17:58] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-373, y=19, z=-55} gj{x=-373, y=19, z=-54}
+[06:19:22] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-394, y=22, z=-55} gj{x=-394, y=22, z=-54}
+[06:19:22] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-394, y=22, z=-55} gj{x=-394, y=22, z=-54}
+[06:19:22] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-394, y=22, z=-55} gj{x=-394, y=22, z=-54}
+[06:20:36] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-389, y=19, z=-75} gj{x=-390, y=19, z=-76}
+[06:20:36] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-389, y=19, z=-75} gj{x=-390, y=19, z=-76}
+[06:20:36] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-389, y=19, z=-75} gj{x=-390, y=19, z=-76}
+[06:20:41] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-395, y=19, z=-66} gj{x=-396, y=19, z=-66}
+[06:20:41] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-395, y=19, z=-66} gj{x=-396, y=19, z=-66}
+[06:20:41] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-395, y=19, z=-66} gj{x=-396, y=19, z=-66}
+[06:20:41] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-395, y=19, z=-66} gj{x=-396, y=19, z=-66}
+[06:20:41] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-395, y=19, z=-66} gj{x=-396, y=19, z=-66}
+[06:20:41] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-395, y=19, z=-66} gj{x=-396, y=19, z=-66}
+[06:20:59] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-384, y=20, z=-78} gj{x=-384, y=20, z=-79}
+[06:20:59] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-384, y=20, z=-78} gj{x=-384, y=20, z=-79}
+[06:23:40] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-375, y=20, z=-84} gj{x=-374, y=20, z=-84}
+[06:23:40] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-375, y=20, z=-84} gj{x=-374, y=20, z=-84}
+[06:23:40] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-375, y=20, z=-84} gj{x=-374, y=20, z=-84}
+[06:23:41] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-373, y=20, z=-87} gj{x=-373, y=21, z=-85}
+[06:23:41] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-373, y=20, z=-87} gj{x=-373, y=21, z=-85}
+[06:25:37] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-348, y=20, z=-63} gj{x=-348, y=19, z=-63}
+[06:25:37] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-348, y=20, z=-63} gj{x=-348, y=19, z=-63}
+[06:25:37] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-348, y=20, z=-63} gj{x=-348, y=19, z=-63}
+[07:25:55] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-309, y=20, z=-39} gj{x=-309, y=20, z=-45}
+[07:25:55] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-309, y=20, z=-39} gj{x=-309, y=20, z=-45}
+[07:25:55] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-309, y=20, z=-39} gj{x=-309, y=20, z=-45}
+[07:25:55] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-309, y=20, z=-39} gj{x=-309, y=20, z=-45}
+[07:25:55] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-309, y=20, z=-39} gj{x=-309, y=20, z=-45}
+[07:25:55] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-309, y=20, z=-39} gj{x=-309, y=20, z=-45}
+[07:25:55] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-309, y=20, z=-39} gj{x=-309, y=20, z=-45}
+[07:25:55] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-309, y=20, z=-39} gj{x=-309, y=20, z=-45}
+[07:25:55] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-309, y=20, z=-39} gj{x=-309, y=20, z=-45}
+[07:25:55] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-309, y=20, z=-39} gj{x=-309, y=20, z=-45}
+[07:25:55] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-309, y=20, z=-39} gj{x=-309, y=20, z=-45}
+[07:25:55] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-309, y=20, z=-39} gj{x=-309, y=20, z=-45}
+[07:25:55] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-309, y=20, z=-39} gj{x=-309, y=20, z=-45}
+[07:25:55] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-309, y=20, z=-39} gj{x=-309, y=20, z=-45}
+[07:27:10] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-309, y=21, z=-70} gj{x=-309, y=20, z=-71}
+[07:27:10] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-309, y=21, z=-70} gj{x=-309, y=20, z=-71}
+[07:27:10] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-309, y=21, z=-70} gj{x=-309, y=20, z=-71}
+[07:27:10] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-309, y=21, z=-70} gj{x=-309, y=20, z=-71}
+[07:27:10] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-309, y=21, z=-70} gj{x=-309, y=20, z=-71}
+[07:27:15] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-313, y=20, z=-71} gj{x=-312, y=20, z=-69}
+[07:27:15] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-313, y=20, z=-71} gj{x=-312, y=20, z=-69}
+[07:27:15] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-313, y=20, z=-71} gj{x=-312, y=20, z=-69}
+[07:27:15] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-313, y=20, z=-71} gj{x=-312, y=20, z=-69}
+[07:28:01] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-328, y=19, z=-63} gj{x=-329, y=19, z=-63}
+[07:28:02] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-328, y=19, z=-63} gj{x=-329, y=19, z=-63}
+[07:30:32] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-192, y=29, z=103} gj{x=-191, y=31, z=103}
+[07:30:32] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-192, y=29, z=103} gj{x=-191, y=31, z=103}
+[07:30:35] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-194, y=27, z=103} gj{x=-193, y=28, z=103}
+[07:30:35] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-194, y=27, z=103} gj{x=-193, y=28, z=103}
+[07:30:35] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-194, y=27, z=103} gj{x=-193, y=28, z=103}
+[07:30:36] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-194, y=27, z=103} gj{x=-195, y=25, z=103}
+[07:30:40] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-201, y=21, z=103} gj{x=-200, y=21, z=103}
+[07:30:40] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-201, y=21, z=103} gj{x=-200, y=21, z=103}
+[07:30:57] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-206, y=21, z=92} gj{x=-207, y=20, z=92}
+[07:30:57] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-206, y=21, z=92} gj{x=-207, y=20, z=92}
+[07:30:57] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-206, y=21, z=92} gj{x=-207, y=20, z=92}
+[07:32:23] [Server thread/INFO]: fnhmm lost connection: Disconnected
+[07:32:23] [Server thread/INFO]: fnhmm left the game
+[07:32:31] [Server thread/INFO]: Stopping the server
+[07:32:31] [Server thread/INFO]: Stopping server
+[07:32:31] [Server thread/INFO]: Saving players
+[07:32:31] [Server thread/INFO]: Saving worlds
+[07:32:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:overworld
+[07:32:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:the_end
+[07:32:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:the_nether
+[07:32:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07:32:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07:32:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07:32:32] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
