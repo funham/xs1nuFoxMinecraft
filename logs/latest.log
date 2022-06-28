@@ -1,68 +1,75 @@
-[13:58:31] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[13:58:34] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:58:34] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:58:34] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[13:58:34] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[13:58:34] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:58:36] [Worker-Main-17/INFO]: Loaded 7 recipes
-[13:58:37] [Worker-Main-17/INFO]: Loaded 1141 advancements
-[13:58:40] [Server thread/INFO]: Starting minecraft server version 1.18.2
-[13:58:40] [Server thread/INFO]: Loading properties
-[13:58:40] [Server thread/INFO]: Default game type: SURVIVAL
-[13:58:40] [Server thread/INFO]: Generating keypair
-[13:58:40] [Server thread/INFO]: Starting Minecraft server on *:25565
-[13:58:40] [Server thread/INFO]: Using default channel type
-[13:58:41] [Server thread/INFO]: Preparing level "world"
-[13:58:41] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[13:58:43] [Worker-Main-26/INFO]: Preparing spawn area: 0%
-[13:58:43] [Worker-Main-31/INFO]: Preparing spawn area: 0%
-[13:58:43] [Worker-Main-31/INFO]: Preparing spawn area: 0%
-[13:58:43] [Worker-Main-16/INFO]: Preparing spawn area: 0%
-[13:58:43] [Worker-Main-18/INFO]: Preparing spawn area: 0%
-[13:58:44] [Worker-Main-18/INFO]: Preparing spawn area: 0%
-[13:58:44] [Worker-Main-28/INFO]: Preparing spawn area: 0%
-[13:58:45] [Worker-Main-27/INFO]: Preparing spawn area: 0%
-[13:58:45] [Worker-Main-18/INFO]: Preparing spawn area: 0%
-[13:58:46] [Worker-Main-20/INFO]: Preparing spawn area: 0%
-[13:58:46] [Worker-Main-26/INFO]: Preparing spawn area: 4%
-[13:58:47] [Worker-Main-31/INFO]: Preparing spawn area: 4%
-[13:58:47] [Worker-Main-32/INFO]: Preparing spawn area: 5%
-[13:58:48] [Worker-Main-24/INFO]: Preparing spawn area: 9%
-[13:58:48] [Worker-Main-22/INFO]: Preparing spawn area: 17%
-[13:58:49] [Worker-Main-25/INFO]: Preparing spawn area: 23%
-[13:58:49] [Worker-Main-31/INFO]: Preparing spawn area: 32%
-[13:58:50] [Worker-Main-18/INFO]: Preparing spawn area: 45%
-[13:58:50] [Worker-Main-22/INFO]: Preparing spawn area: 72%
-[13:58:52] [Server thread/INFO]: Time elapsed: 10629 ms
-[13:58:52] [Server thread/INFO]: Done (10.939s)! For help, type "help"
-[14:02:52] [User Authenticator #1/INFO]: UUID of player fnhmm is 7d41e46d-8d8e-44fb-b7cd-fa872df06901
-[14:02:52] [Server thread/INFO]: fnhmm[/25.71.206.46:64218] logged in with entity id 87 at (-205.18103031832126, 19.0, 59.01737318012245)
-[14:02:52] [Server thread/INFO]: fnhmm joined the game
-[14:06:32] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-225, y=19, z=66} gj{x=-222, y=19, z=67}
-[14:06:32] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-224, y=18, z=66} gj{x=-223, y=18, z=66}
-[14:06:32] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-224, y=18, z=66} gj{x=-223, y=18, z=66}
-[14:06:32] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-224, y=18, z=66} gj{x=-223, y=18, z=66}
-[14:06:32] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-224, y=18, z=66} gj{x=-223, y=18, z=66}
-[14:06:32] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-224, y=18, z=66} gj{x=-223, y=18, z=66}
-[14:06:32] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-224, y=18, z=66} gj{x=-223, y=18, z=66}
-[14:06:32] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-224, y=18, z=66} gj{x=-223, y=18, z=66}
-[14:06:33] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-224, y=19, z=65} gj{x=-223, y=19, z=64}
-[14:06:33] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-224, y=19, z=65} gj{x=-223, y=19, z=64}
-[14:06:33] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-224, y=19, z=65} gj{x=-223, y=19, z=64}
-[14:06:33] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-224, y=19, z=65} gj{x=-223, y=19, z=64}
-[15:09:50] [Server thread/INFO]: Villager bnw['Armorer'/3102, l='ServerLevel[xs1nuFox]', x=-1220.73, y=110.00, z=-501.96] died, message: 'Armorer burned to death'
-[15:35:40] [Server thread/INFO]: fnhmm has completed the challenge [Cover Me in Debris]
-[16:04:57] [Server thread/INFO]: fnhmm has made the advancement [Glow and Behold!]
-[16:09:53] [Server thread/INFO]: fnhmm lost connection: Disconnected
-[16:09:53] [Server thread/INFO]: fnhmm left the game
-[16:10:07] [Server thread/INFO]: Stopping the server
-[16:10:07] [Server thread/INFO]: Stopping server
-[16:10:07] [Server thread/INFO]: Saving players
-[16:10:07] [Server thread/INFO]: Saving worlds
-[16:10:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:overworld
-[16:10:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:the_end
-[16:10:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:the_nether
-[16:10:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[16:10:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[16:10:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[16:10:08] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:35:48] [Server thread/INFO]: Villager bnw['Farmer'/7338, l='ServerLevel[xs1nuFox]', x=-1253.60, y=96.32, z=-539.81] died, message: 'Farmer tried to swim in lava'
+[00:44:24] [Server thread/INFO]: fnhmm has made the advancement [Sticky Situation]
+[00:46:44] [Server thread/INFO]: fnhmm lost connection: Disconnected
+[00:46:44] [Server thread/INFO]: fnhmm left the game
+[00:47:34] [User Authenticator #2/INFO]: UUID of player fnhmm is 7d41e46d-8d8e-44fb-b7cd-fa872df06901
+[00:47:34] [Server thread/INFO]: fnhmm[/25.71.206.46:51330] logged in with entity id 24268 at (-1212.355236319849, 105.0, -519.5502125484467)
+[00:47:34] [Server thread/INFO]: fnhmm joined the game
+[01:16:06] [Server thread/WARN]: Horse (vehicle of fnhmm) moved wrongly! 0.41583591500204875
+[01:17:18] [Server thread/WARN]: Horse (vehicle of fnhmm) moved wrongly! 0.25486920788284806
+[01:17:18] [Server thread/WARN]: Horse (vehicle of fnhmm) moved wrongly! 0.43955510093303474
+[01:17:18] [Server thread/WARN]: Horse (vehicle of fnhmm) moved wrongly! 0.42821907688107785
+[01:17:19] [Server thread/WARN]: Horse (vehicle of fnhmm) moved wrongly! 0.4291446757162589
+[01:17:19] [Server thread/WARN]: Horse (vehicle of fnhmm) moved wrongly! 0.43248864900709805
+[01:17:19] [Server thread/WARN]: Horse (vehicle of fnhmm) moved wrongly! 0.4348111027163668
+[01:17:19] [Server thread/WARN]: Horse (vehicle of fnhmm) moved wrongly! 0.43609116765213685
+[01:17:19] [Server thread/WARN]: Horse (vehicle of fnhmm) moved wrongly! 0.436776104877481
+[01:17:19] [Server thread/WARN]: Horse (vehicle of fnhmm) moved wrongly! 0.4371148746075164
+[01:17:19] [Server thread/WARN]: Horse (vehicle of fnhmm) moved wrongly! 0.43716875026467505
+[01:17:19] [Server thread/WARN]: Horse (vehicle of fnhmm) moved wrongly! 0.437184416375203
+[01:17:19] [Server thread/WARN]: Horse (vehicle of fnhmm) moved wrongly! 0.43710477851294627
+[01:17:19] [Server thread/WARN]: Horse (vehicle of fnhmm) moved wrongly! 0.43661454249280496
+[01:17:19] [Server thread/WARN]: Horse (vehicle of fnhmm) moved wrongly! 0.4052604964316515
+[01:17:19] [Server thread/WARN]: Horse (vehicle of fnhmm) moved wrongly! 0.3880295138673091
+[01:17:19] [Server thread/WARN]: Horse (vehicle of fnhmm) moved wrongly! 0.3788095586458553
+[01:17:19] [Server thread/WARN]: Horse (vehicle of fnhmm) moved wrongly! 0.37356790536375684
+[01:17:19] [Server thread/WARN]: Horse (vehicle of fnhmm) moved wrongly! 0.37046619015006854
+[01:17:19] [Server thread/WARN]: Horse (vehicle of fnhmm) moved wrongly! 0.3691035352305221
+[01:17:19] [Server thread/WARN]: Horse (vehicle of fnhmm) moved wrongly! 0.37122565516023087
+[01:17:19] [Server thread/WARN]: Horse (vehicle of fnhmm) moved wrongly! 0.37788119111974083
+[01:17:19] [Server thread/WARN]: Horse (vehicle of fnhmm) moved wrongly! 0.405744461139534
+[01:17:19] [Server thread/WARN]: Horse (vehicle of fnhmm) moved wrongly! 0.42064957043902496
+[01:17:20] [Server thread/WARN]: Horse (vehicle of fnhmm) moved wrongly! 0.4286040199456238
+[01:17:20] [Server thread/WARN]: Horse (vehicle of fnhmm) moved wrongly! 0.4328026593314007
+[01:17:20] [Server thread/WARN]: Horse (vehicle of fnhmm) moved wrongly! 0.4114965168115532
+[01:17:20] [Server thread/WARN]: Horse (vehicle of fnhmm) moved wrongly! 0.4003671750546687
+[01:17:20] [Server thread/WARN]: Horse (vehicle of fnhmm) moved wrongly! 0.3949507187534209
+[01:17:20] [Server thread/WARN]: Horse (vehicle of fnhmm) moved wrongly! 0.3929674937297136
+[01:23:41] [Server thread/WARN]: Horse (vehicle of fnhmm) moved wrongly! 0.30181880733031363
+[01:45:22] [Server thread/WARN]: Horse (vehicle of fnhmm) moved wrongly! 0.30654037589681593
+[01:45:23] [Server thread/WARN]: Horse (vehicle of fnhmm) moved wrongly! 0.38513175649086406
+[01:51:17] [Server thread/WARN]: Horse (vehicle of fnhmm) moved wrongly! 0.3669057607319246
+[01:51:34] [Server thread/WARN]: Horse (vehicle of fnhmm) moved wrongly! 0.2749420898073822
+[01:51:34] [Server thread/WARN]: Horse (vehicle of fnhmm) moved wrongly! 0.29500640006153844
+[01:53:32] [Server thread/WARN]: Horse (vehicle of fnhmm) moved wrongly! 0.2907546721032759
+[01:59:47] [Server thread/WARN]: Horse (vehicle of fnhmm) moved wrongly! 0.3451833770020585
+[02:00:38] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=2518, y=133, z=-1432} gj{x=2518, y=132, z=-1432}
+[02:00:38] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=2518, y=133, z=-1432} gj{x=2518, y=132, z=-1432}
+[02:00:39] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=2518, y=133, z=-1432} gj{x=2518, y=132, z=-1432}
+[02:00:39] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=2518, y=133, z=-1432} gj{x=2518, y=132, z=-1432}
+[02:00:39] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=2518, y=133, z=-1432} gj{x=2518, y=132, z=-1432}
+[02:00:39] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=2518, y=133, z=-1432} gj{x=2518, y=132, z=-1432}
+[02:00:42] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=2522, y=133, z=-1428} gj{x=2518, y=133, z=-1429}
+[02:00:42] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=2522, y=133, z=-1428} gj{x=2518, y=133, z=-1429}
+[02:00:42] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=2522, y=133, z=-1428} gj{x=2518, y=133, z=-1429}
+[02:00:42] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=2522, y=133, z=-1428} gj{x=2518, y=133, z=-1429}
+[02:00:42] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=2522, y=133, z=-1428} gj{x=2518, y=133, z=-1429}
+[02:00:43] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=2522, y=133, z=-1428} gj{x=2518, y=133, z=-1429}
+[02:00:46] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=2518, y=135, z=-1425} gj{x=2517, y=135, z=-1425}
+[02:00:46] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=2518, y=135, z=-1425} gj{x=2517, y=135, z=-1425}
+[02:20:32] [Server thread/INFO]: fnhmm was blown up by Creeper
+[02:20:33] [Server thread/WARN]: fnhmm moved too quickly! 91.09137468463268,8.0,-43.39971582849142
+[02:20:33] [Server thread/WARN]: fnhmm moved too quickly! 91.09137468463268,8.0,-43.39971582849142
+[03:42:03] [Server thread/INFO]: fnhmm lost connection: Disconnected
+[03:42:03] [Server thread/INFO]: fnhmm left the game
+[03:42:10] [Server thread/INFO]: Stopping the server
+[03:42:10] [Server thread/INFO]: Stopping server
+[03:42:10] [Server thread/INFO]: Saving players
+[03:42:10] [Server thread/INFO]: Saving worlds
+[03:42:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:overworld
+[03:42:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:the_end
+[03:42:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:the_nether
+[03:42:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:42:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:42:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:42:11] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
