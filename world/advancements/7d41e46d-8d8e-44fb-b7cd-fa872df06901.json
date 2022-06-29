@@ -527,6 +527,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_carpet": {
+    "criteria": {
+      "has_magenta_wool": "2022-06-29 12:45:53 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_the_recipe": "2022-06-03 04:32:15 +0300"
@@ -650,6 +656,12 @@
   "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2022-06-24 17:11:45 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_pink_dye": "2022-06-29 12:27:58 +0300"
     },
     "done": true
   },
@@ -1827,6 +1839,7 @@
       "minecraft:eroded_badlands": "2022-06-28 01:23:03 +0300",
       "minecraft:sunflower_plains": "2022-06-03 00:48:24 +0300",
       "minecraft:birch_forest": "2022-06-04 02:18:52 +0300",
+      "minecraft:bamboo_jungle": "2022-06-29 11:39:19 +0300",
       "minecraft:badlands": "2022-06-28 01:23:05 +0300",
       "minecraft:savanna_plateau": "2022-06-04 02:58:21 +0300",
       "minecraft:beach": "2022-06-01 23:47:59 +0300",
@@ -1903,6 +1916,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_slab": {
     "criteria": {
       "has_polished_deepslate": "2022-06-24 17:05:49 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_banner": {
+    "criteria": {
+      "has_magenta_wool": "2022-06-29 12:45:53 +0300"
     },
     "done": true
   },
@@ -2407,6 +2426,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_bed": {
+    "criteria": {
+      "has_magenta_wool": "2022-06-29 12:45:53 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/honey_block": {
     "criteria": {
       "has_honey_bottle": "2022-06-21 05:33:23 +0300"
@@ -2500,6 +2525,12 @@
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-06-01 23:37:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_carpet": {
+    "criteria": {
+      "has_pink_wool": "2022-06-29 13:05:36 +0300"
     },
     "done": true
   },
@@ -2831,6 +2862,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2022-06-03 01:32:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_banner": {
+    "criteria": {
+      "has_pink_wool": "2022-06-29 13:05:36 +0300"
     },
     "done": true
   },
@@ -3617,6 +3654,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_bed": {
+    "criteria": {
+      "has_pink_wool": "2022-06-29 13:05:36 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2022-06-11 01:05:02 +0300"
@@ -3938,6 +3981,12 @@
   "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
     "criteria": {
       "has_blue_dye": "2022-06-03 03:14:15 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_candle": {
+    "criteria": {
+      "has_yellow_dye": "2022-06-29 12:27:51 +0300"
     },
     "done": true
   },
@@ -4292,6 +4341,12 @@
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2022-06-20 02:53:04 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_candle": {
+    "criteria": {
+      "has_pink_dye": "2022-06-29 12:27:58 +0300"
     },
     "done": true
   },
