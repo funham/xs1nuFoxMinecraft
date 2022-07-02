@@ -1,60 +1,52 @@
-[11:22:03] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[11:22:06] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:22:06] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:22:06] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[11:22:06] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[11:22:06] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:22:07] [Worker-Main-18/INFO]: Loaded 7 recipes
-[11:22:08] [Worker-Main-18/INFO]: Loaded 1141 advancements
-[11:22:11] [Server thread/INFO]: Starting minecraft server version 1.18.2
-[11:22:11] [Server thread/INFO]: Loading properties
-[11:22:11] [Server thread/INFO]: Default game type: SURVIVAL
-[11:22:11] [Server thread/INFO]: Generating keypair
-[11:22:11] [Server thread/INFO]: Starting Minecraft server on *:25565
-[11:22:11] [Server thread/INFO]: Using default channel type
-[11:22:11] [Server thread/INFO]: Preparing level "world"
-[11:22:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[11:22:13] [Worker-Main-25/INFO]: Preparing spawn area: 0%
-[11:22:13] [Worker-Main-25/INFO]: Preparing spawn area: 0%
-[11:22:13] [Worker-Main-25/INFO]: Preparing spawn area: 0%
-[11:22:13] [Worker-Main-30/INFO]: Preparing spawn area: 0%
-[11:22:14] [Worker-Main-26/INFO]: Preparing spawn area: 0%
-[11:22:14] [Worker-Main-27/INFO]: Preparing spawn area: 0%
-[11:22:15] [Worker-Main-24/INFO]: Preparing spawn area: 0%
-[11:22:15] [Worker-Main-21/INFO]: Preparing spawn area: 0%
-[11:22:16] [Worker-Main-26/INFO]: Preparing spawn area: 0%
-[11:22:16] [Worker-Main-21/INFO]: Preparing spawn area: 0%
-[11:22:17] [Worker-Main-29/INFO]: Preparing spawn area: 1%
-[11:22:17] [Worker-Main-20/INFO]: Preparing spawn area: 2%
-[11:22:18] [Worker-Main-21/INFO]: Preparing spawn area: 4%
-[11:22:18] [Worker-Main-27/INFO]: Preparing spawn area: 4%
-[11:22:19] [Worker-Main-21/INFO]: Preparing spawn area: 6%
-[11:22:19] [Worker-Main-28/INFO]: Preparing spawn area: 8%
-[11:22:20] [Worker-Main-17/INFO]: Preparing spawn area: 13%
-[11:22:20] [Worker-Main-28/INFO]: Preparing spawn area: 27%
-[11:22:21] [Worker-Main-19/INFO]: Preparing spawn area: 32%
-[11:22:21] [Worker-Main-25/INFO]: Preparing spawn area: 41%
-[11:22:22] [Worker-Main-24/INFO]: Preparing spawn area: 48%
-[11:22:22] [Worker-Main-20/INFO]: Preparing spawn area: 56%
-[11:22:23] [Worker-Main-22/INFO]: Preparing spawn area: 63%
-[11:22:23] [Worker-Main-19/INFO]: Preparing spawn area: 69%
-[11:22:24] [Worker-Main-28/INFO]: Preparing spawn area: 81%
-[11:22:24] [Worker-Main-22/INFO]: Preparing spawn area: 95%
-[11:22:25] [Server thread/INFO]: Time elapsed: 13729 ms
-[11:22:25] [Server thread/INFO]: Done (13.968s)! For help, type "help"
-[11:28:24] [User Authenticator #1/INFO]: UUID of player fnhmm is 7d41e46d-8d8e-44fb-b7cd-fa872df06901
-[11:28:24] [Server thread/INFO]: fnhmm[/25.71.206.46:52396] logged in with entity id 90 at (723.4794237806854, 72.0, -4.472496885023094)
-[11:28:24] [Server thread/INFO]: fnhmm joined the game
-[13:14:37] [Server thread/INFO]: fnhmm lost connection: Disconnected
-[13:14:37] [Server thread/INFO]: fnhmm left the game
-[13:14:43] [Server thread/INFO]: Stopping the server
-[13:14:43] [Server thread/INFO]: Stopping server
-[13:14:43] [Server thread/INFO]: Saving players
-[13:14:43] [Server thread/INFO]: Saving worlds
-[13:14:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:overworld
-[13:14:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:the_end
-[13:14:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:the_nether
-[13:14:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[13:14:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[13:14:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[13:14:45] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18:32:07] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[18:32:09] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:32:09] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:32:09] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:32:09] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:32:10] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:32:11] [Worker-Main-18/INFO]: Loaded 7 recipes
+[18:32:12] [Worker-Main-18/INFO]: Loaded 1141 advancements
+[18:32:14] [Server thread/INFO]: Starting minecraft server version 1.18.2
+[18:32:14] [Server thread/INFO]: Loading properties
+[18:32:14] [Server thread/INFO]: Default game type: SURVIVAL
+[18:32:14] [Server thread/INFO]: Generating keypair
+[18:32:14] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:32:14] [Server thread/INFO]: Using default channel type
+[18:32:14] [Server thread/INFO]: Preparing level "world"
+[18:32:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:32:15] [Worker-Main-22/INFO]: Preparing spawn area: 0%
+[18:32:15] [Worker-Main-19/INFO]: Preparing spawn area: 0%
+[18:32:16] [Worker-Main-25/INFO]: Preparing spawn area: 0%
+[18:32:16] [Worker-Main-21/INFO]: Preparing spawn area: 0%
+[18:32:16] [Worker-Main-27/INFO]: Preparing spawn area: 0%
+[18:32:17] [Worker-Main-19/INFO]: Preparing spawn area: 0%
+[18:32:17] [Worker-Main-20/INFO]: Preparing spawn area: 0%
+[18:32:18] [Worker-Main-30/INFO]: Preparing spawn area: 1%
+[18:32:18] [Worker-Main-29/INFO]: Preparing spawn area: 9%
+[18:32:19] [Worker-Main-22/INFO]: Preparing spawn area: 13%
+[18:32:19] [Worker-Main-28/INFO]: Preparing spawn area: 24%
+[18:32:20] [Worker-Main-21/INFO]: Preparing spawn area: 48%
+[18:32:21] [Server thread/INFO]: Time elapsed: 6609 ms
+[18:32:21] [Server thread/INFO]: Done (6.794s)! For help, type "help"
+[18:33:19] [User Authenticator #1/INFO]: UUID of player xs1nus is c0827102-a2f3-45e2-b4ea-86f5bd0c5075
+[18:33:19] [Server thread/INFO]: xs1nus[/192.168.0.114:59455] logged in with entity id 84 at (-1227.4073922400262, 104.0, -510.1420979538072)
+[18:33:19] [Server thread/INFO]: xs1nus joined the game
+[18:35:16] [User Authenticator #2/INFO]: UUID of player fnhmm is 7d41e46d-8d8e-44fb-b7cd-fa872df06901
+[18:35:17] [Server thread/INFO]: fnhmm[/25.71.206.46:53307] logged in with entity id 1070 at (-1201.4420423373297, 100.5625, -531.6999999880791)
+[18:35:17] [Server thread/INFO]: fnhmm joined the game
+[18:42:12] [Server thread/INFO]: xs1nus has completed the challenge [Cover Me in Debris]
+[19:45:56] [Server thread/INFO]: xs1nus lost connection: Disconnected
+[19:45:56] [Server thread/INFO]: xs1nus left the game
+[20:01:13] [Server thread/INFO]: fnhmm lost connection: Disconnected
+[20:01:13] [Server thread/INFO]: fnhmm left the game
+[20:44:31] [Server thread/INFO]: Stopping the server
+[20:44:31] [Server thread/INFO]: Stopping server
+[20:44:31] [Server thread/INFO]: Saving players
+[20:44:31] [Server thread/INFO]: Saving worlds
+[20:44:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:overworld
+[20:44:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:the_nether
+[20:44:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:the_end
+[20:44:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:44:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:44:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:44:31] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
