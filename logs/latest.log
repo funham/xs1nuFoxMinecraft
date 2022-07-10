@@ -1,60 +1,64 @@
-[17:07:19] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[17:07:22] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:07:22] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:07:22] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[17:07:22] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[17:07:22] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:07:23] [Worker-Main-18/INFO]: Loaded 7 recipes
-[17:07:24] [Worker-Main-18/INFO]: Loaded 1141 advancements
-[17:07:26] [Server thread/INFO]: Starting minecraft server version 1.18.2
-[17:07:26] [Server thread/INFO]: Loading properties
-[17:07:26] [Server thread/INFO]: Default game type: SURVIVAL
-[17:07:26] [Server thread/INFO]: Generating keypair
-[17:07:26] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:07:26] [Server thread/INFO]: Using default channel type
-[17:07:26] [Server thread/INFO]: Preparing level "world"
-[17:07:27] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:07:28] [Worker-Main-22/INFO]: Preparing spawn area: 0%
-[17:07:28] [Worker-Main-22/INFO]: Preparing spawn area: 0%
-[17:07:28] [Worker-Main-22/INFO]: Preparing spawn area: 0%
-[17:07:28] [Worker-Main-27/INFO]: Preparing spawn area: 0%
-[17:07:29] [Worker-Main-22/INFO]: Preparing spawn area: 0%
-[17:07:29] [Worker-Main-26/INFO]: Preparing spawn area: 0%
-[17:07:30] [Worker-Main-30/INFO]: Preparing spawn area: 0%
-[17:07:30] [Worker-Main-24/INFO]: Preparing spawn area: 1%
-[17:07:31] [Worker-Main-30/INFO]: Preparing spawn area: 5%
-[17:07:31] [Worker-Main-17/INFO]: Preparing spawn area: 14%
-[17:07:32] [Worker-Main-21/INFO]: Preparing spawn area: 19%
-[17:07:32] [Worker-Main-30/INFO]: Preparing spawn area: 42%
-[17:07:33] [Worker-Main-21/INFO]: Preparing spawn area: 69%
-[17:07:33] [Server thread/INFO]: Time elapsed: 6586 ms
-[17:07:33] [Server thread/INFO]: Done (6.836s)! For help, type "help"
-[17:08:01] [User Authenticator #1/INFO]: UUID of player xs1nus is c0827102-a2f3-45e2-b4ea-86f5bd0c5075
-[17:08:01] [Server thread/INFO]: xs1nus[/192.168.0.114:63268] logged in with entity id 85 at (-1209.6645863195445, 102.0, -522.3262124518503)
-[17:08:01] [Server thread/INFO]: xs1nus joined the game
-[17:55:49] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=5, y=64, z=202} gj{x=4, y=64, z=198}
-[17:55:49] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=5, y=64, z=202} gj{x=4, y=64, z=198}
-[17:55:49] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=5, y=64, z=202} gj{x=4, y=64, z=198}
-[17:55:49] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=5, y=64, z=202} gj{x=4, y=64, z=198}
-[17:55:49] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=5, y=64, z=202} gj{x=4, y=64, z=198}
-[17:55:49] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=5, y=64, z=202} gj{x=4, y=64, z=198}
-[17:55:49] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=5, y=64, z=202} gj{x=4, y=64, z=198}
-[18:13:23] [Server thread/INFO]: xs1nus has made the advancement [Spooky Scary Skeleton]
-[18:14:39] [Server thread/WARN]: xs1nus moved wrongly!
-[19:18:15] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-281, y=43, z=-76} gj{x=-282, y=43, z=-76}
-[19:18:15] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-281, y=43, z=-76} gj{x=-282, y=43, z=-76}
-[19:18:15] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-281, y=43, z=-76} gj{x=-282, y=43, z=-76}
-[19:18:23] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-288, y=36, z=-76} gj{x=-289, y=36, z=-76}
-[19:18:24] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-288, y=36, z=-76} gj{x=-289, y=36, z=-76}
-[19:18:24] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-288, y=36, z=-76} gj{x=-289, y=36, z=-76}
-[19:18:51] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-299, y=25, z=-76} gj{x=-301, y=25, z=-76}
-[19:20:15] [User Authenticator #3/INFO]: UUID of player xs1nus is c0827102-a2f3-45e2-b4ea-86f5bd0c5075
-[19:19:51] [Server Watchdog/ERROR]: A single server tick took 60.00 seconds (should be max 0.05)
-[19:20:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 98804ms or 1976 ticks behind
-[19:20:04] [User Authenticator #2/INFO]: UUID of player xs1nus is c0827102-a2f3-45e2-b4ea-86f5bd0c5075
-[19:20:29] [Server Watchdog/ERROR]: Considering it to be crashed, server will forcibly shutdown.
-[19:20:31] [Server thread/INFO]: xs1nus lost connection: Disconnected
-[19:20:31] [Server thread/INFO]: xs1nus left the game
-[19:20:31] [Server thread/INFO]: com.mojang.authlib.GameProfile@2441c314[id=c0827102-a2f3-45e2-b4ea-86f5bd0c5075,name=xs1nus,properties={textures=[com.mojang.authlib.properties.Property@3d4075f6]},legacy=false] (/192.168.0.114:54398) lost connection: Disconnected
-[19:20:31] [Server thread/INFO]: com.mojang.authlib.GameProfile@509647ac[id=c0827102-a2f3-45e2-b4ea-86f5bd0c5075,name=xs1nus,properties={textures=[com.mojang.authlib.properties.Property@3329ea81]},legacy=false] (/192.168.0.114:54406) lost connection: Disconnected
-[19:20:31] [Server Watchdog/ERROR]: This crash report has been saved to: C:\Minecraft Servers\xs1nuFox\.\crash-reports\crash-2022-07-10_19.20.31-server.txt
+[19:21:02] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[19:21:04] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:21:04] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:21:04] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:21:04] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:21:04] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:21:06] [Worker-Main-19/INFO]: Loaded 7 recipes
+[19:21:07] [Worker-Main-19/INFO]: Loaded 1141 advancements
+[19:21:09] [Server thread/INFO]: Starting minecraft server version 1.18.2
+[19:21:09] [Server thread/INFO]: Loading properties
+[19:21:09] [Server thread/INFO]: Default game type: SURVIVAL
+[19:21:09] [Server thread/INFO]: Generating keypair
+[19:21:09] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:21:09] [Server thread/INFO]: Using default channel type
+[19:21:09] [Server thread/INFO]: Preparing level "world"
+[19:21:09] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:21:11] [Worker-Main-25/INFO]: Preparing spawn area: 0%
+[19:21:11] [Worker-Main-26/INFO]: Preparing spawn area: 0%
+[19:21:11] [Worker-Main-26/INFO]: Preparing spawn area: 0%
+[19:21:11] [Worker-Main-26/INFO]: Preparing spawn area: 0%
+[19:21:11] [Worker-Main-16/INFO]: Preparing spawn area: 0%
+[19:21:12] [Worker-Main-18/INFO]: Preparing spawn area: 0%
+[19:21:12] [Worker-Main-26/INFO]: Preparing spawn area: 0%
+[19:21:13] [Worker-Main-29/INFO]: Preparing spawn area: 1%
+[19:21:13] [Worker-Main-23/INFO]: Preparing spawn area: 1%
+[19:21:14] [Worker-Main-25/INFO]: Preparing spawn area: 2%
+[19:21:14] [Worker-Main-28/INFO]: Preparing spawn area: 18%
+[19:21:15] [Worker-Main-17/INFO]: Preparing spawn area: 63%
+[19:21:16] [Server thread/INFO]: Time elapsed: 6733 ms
+[19:21:16] [Server thread/INFO]: Done (6.951s)! For help, type "help"
+[19:21:21] [User Authenticator #1/INFO]: UUID of player xs1nus is c0827102-a2f3-45e2-b4ea-86f5bd0c5075
+[19:21:21] [Server thread/INFO]: xs1nus[/192.168.0.114:54522] logged in with entity id 86 at (-298.62388094120854, 24.0, -75.61904224884735)
+[19:21:21] [Server thread/INFO]: xs1nus joined the game
+[19:21:28] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-304, y=21, z=-76} gj{x=-302, y=22, z=-76}
+[19:21:28] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-304, y=21, z=-76} gj{x=-302, y=22, z=-76}
+[19:21:28] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-304, y=21, z=-76} gj{x=-302, y=22, z=-76}
+[19:21:30] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-307, y=19, z=-76} gj{x=-307, y=18, z=-76}
+[19:21:31] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-308, y=17, z=-76} gj{x=-309, y=17, z=-76}
+[19:21:31] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-308, y=17, z=-76} gj{x=-309, y=17, z=-76}
+[19:21:31] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-308, y=17, z=-76} gj{x=-309, y=17, z=-76}
+[19:22:23] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-308, y=20, z=-75} gj{x=-307, y=22, z=-75}
+[19:22:37] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-308, y=20, z=-75} gj{x=-309, y=21, z=-74}
+[19:26:00] [Server thread/INFO]: xs1nus has made the advancement [Hidden in the Depths]
+[19:29:08] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-304, y=15, z=-171} gj{x=-304, y=15, z=-215}
+[19:29:08] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-304, y=15, z=-171} gj{x=-304, y=15, z=-215}
+[19:29:08] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-304, y=15, z=-171} gj{x=-304, y=15, z=-215}
+[19:31:12] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-304, y=15, z=-328} gj{x=-304, y=17, z=-335}
+[19:44:32] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-400, y=16, z=-59} gj{x=-401, y=15, z=-53}
+[19:44:32] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-400, y=16, z=-59} gj{x=-401, y=15, z=-53}
+[19:44:32] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-400, y=16, z=-59} gj{x=-401, y=15, z=-53}
+[19:48:42] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-257, y=49, z=-62} gj{x=-256, y=49, z=-62}
+[20:22:31] [Server thread/INFO]: xs1nus lost connection: Disconnected
+[20:22:31] [Server thread/INFO]: xs1nus left the game
+[20:22:34] [Server thread/INFO]: Stopping the server
+[20:22:34] [Server thread/INFO]: Stopping server
+[20:22:34] [Server thread/INFO]: Saving players
+[20:22:34] [Server thread/INFO]: Saving worlds
+[20:22:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:overworld
+[20:22:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:the_nether
+[20:22:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:the_end
+[20:22:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:22:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:22:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:22:35] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

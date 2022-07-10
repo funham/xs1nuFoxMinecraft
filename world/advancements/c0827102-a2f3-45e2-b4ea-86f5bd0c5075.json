@@ -785,6 +785,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2022-07-10 19:26:00 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2022-06-10 23:38:01 +0300"
@@ -1651,6 +1657,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2022-07-10 19:56:02 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2022-06-02 00:33:01 +0300"
@@ -1990,6 +2002,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2022-07-10 19:26:00 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-06-01 23:38:16 +0300"
@@ -2005,6 +2023,12 @@
   "minecraft:recipes/misc/bone_meal_from_bone_block": {
     "criteria": {
       "has_bone_block": "2022-06-03 04:12:57 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2022-07-10 19:26:00 +0300"
     },
     "done": true
   },
