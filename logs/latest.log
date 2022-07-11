@@ -1,61 +1,60 @@
-[00:23:51] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-337, y=15, z=-67} gj{x=-337, y=17, z=-66}
-[00:28:53] [Server thread/INFO]: fnhmm has made the advancement [Sound of Music]
-[00:39:41] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=28, y=47, z=365} gj{x=27, y=47, z=364}
-[00:40:41] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=34, y=40, z=345} gj{x=36, y=41, z=345}
-[00:40:41] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=34, y=40, z=345} gj{x=36, y=41, z=345}
-[00:45:41] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=269, y=62, z=384} gj{x=281, y=69, z=381}
-[00:45:41] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=269, y=62, z=384} gj{x=281, y=69, z=381}
-[00:45:41] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=269, y=62, z=384} gj{x=281, y=69, z=381}
-[00:45:41] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=269, y=62, z=384} gj{x=281, y=69, z=381}
-[00:58:17] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=62, y=59, z=302} gj{x=62, y=59, z=300}
-[00:58:17] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=62, y=59, z=302} gj{x=62, y=59, z=299}
-[00:58:17] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=62, y=59, z=302} gj{x=62, y=59, z=299}
-[00:59:08] [Server thread/INFO]: fnhmm lost connection: Disconnected
-[00:59:08] [Server thread/INFO]: fnhmm left the game
-[01:00:47] [Server thread/INFO]: xs1nus lost connection: Disconnected
-[01:00:47] [Server thread/INFO]: xs1nus left the game
-[01:01:56] [User Authenticator #5/INFO]: UUID of player xs1nus is c0827102-a2f3-45e2-b4ea-86f5bd0c5075
-[01:01:56] [Server thread/INFO]: xs1nus[/192.168.0.114:58714] logged in with entity id 71239 at (31.665681091642398, 75.0, 133.4501070818902)
-[01:01:56] [Server thread/INFO]: xs1nus joined the game
-[01:01:58] [User Authenticator #6/INFO]: UUID of player fnhmm is 7d41e46d-8d8e-44fb-b7cd-fa872df06901
-[01:01:58] [Server thread/INFO]: fnhmm[/25.71.206.46:55139] logged in with entity id 71413 at (38.207640609922876, 43.0, 334.5201627236419)
-[01:01:58] [Server thread/INFO]: fnhmm joined the game
-[01:04:23] [Server thread/INFO]: fnhmm lost connection: Disconnected
-[01:04:23] [Server thread/INFO]: fnhmm left the game
-[01:23:31] [User Authenticator #7/INFO]: UUID of player fnhmm is 7d41e46d-8d8e-44fb-b7cd-fa872df06901
-[01:23:31] [Server thread/INFO]: fnhmm[/25.71.206.46:55713] logged in with entity id 80024 at (-128.37904037126435, 28.192787926842016, -51.11771899918164)
-[01:23:31] [Server thread/INFO]: fnhmm joined the game
-[01:23:34] [Server thread/INFO]: fnhmm lost connection: Disconnected
-[01:23:34] [Server thread/INFO]: fnhmm left the game
-[01:27:30] [User Authenticator #8/INFO]: UUID of player fnhmm is 7d41e46d-8d8e-44fb-b7cd-fa872df06901
-[01:27:31] [Server thread/INFO]: fnhmm[/25.71.206.46:60693] logged in with entity id 81803 at (-129.3759153712643, 27.56060546875, -51.11771899918164)
-[01:27:31] [Server thread/INFO]: fnhmm joined the game
-[01:27:34] [Server thread/INFO]: fnhmm lost connection: Disconnected
-[01:27:34] [Server thread/INFO]: fnhmm left the game
-[01:27:45] [User Authenticator #9/INFO]: UUID of player fnhmm is 7d41e46d-8d8e-44fb-b7cd-fa872df06901
-[01:27:45] [Server thread/INFO]: fnhmm[/25.71.206.46:60698] logged in with entity id 81830 at (-129.3759153712643, 23.0, -51.11771899918164)
-[01:27:45] [Server thread/INFO]: fnhmm joined the game
-[01:27:49] [Server thread/INFO]: fnhmm lost connection: Disconnected
-[01:27:49] [Server thread/INFO]: fnhmm left the game
-[01:28:26] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-127, y=26, z=-53} gj{x=-128, y=28, z=-51}
-[01:28:44] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-128, y=24, z=-52} gj{x=-128, y=23, z=-53}
-[01:28:44] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-128, y=23, z=-52} gj{x=-128, y=23, z=-53}
-[01:31:18] [User Authenticator #10/INFO]: UUID of player fnhmm is 7d41e46d-8d8e-44fb-b7cd-fa872df06901
-[01:31:18] [Server thread/INFO]: fnhmm[/25.71.206.46:60716] logged in with entity id 82505 at (-129.3759153712643, 23.0, -51.11771899918164)
-[01:31:18] [Server thread/INFO]: fnhmm joined the game
-[01:34:33] [Server thread/INFO]: xs1nus fell from a high place
-[01:36:13] [Server thread/INFO]: xs1nus lost connection: Disconnected
-[01:36:13] [Server thread/INFO]: xs1nus left the game
-[01:36:22] [Server thread/INFO]: fnhmm lost connection: Disconnected
-[01:36:22] [Server thread/INFO]: fnhmm left the game
-[01:36:38] [Server thread/INFO]: Stopping the server
-[01:36:38] [Server thread/INFO]: Stopping server
-[01:36:38] [Server thread/INFO]: Saving players
-[01:36:38] [Server thread/INFO]: Saving worlds
-[01:36:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:overworld
-[01:36:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:the_nether
-[01:36:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:the_end
-[01:36:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:36:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:36:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:36:39] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[04:25:05] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[04:25:10] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[04:25:10] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[04:25:10] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[04:25:10] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[04:25:10] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[04:25:12] [Worker-Main-22/INFO]: Loaded 7 recipes
+[04:25:13] [Worker-Main-22/INFO]: Loaded 1141 advancements
+[04:25:16] [Server thread/INFO]: Starting minecraft server version 1.18.2
+[04:25:16] [Server thread/INFO]: Loading properties
+[04:25:16] [Server thread/INFO]: Default game type: SURVIVAL
+[04:25:16] [Server thread/INFO]: Generating keypair
+[04:25:17] [Server thread/INFO]: Starting Minecraft server on *:25565
+[04:25:17] [Server thread/INFO]: Using default channel type
+[04:25:18] [Server thread/INFO]: Preparing level "world"
+[04:25:18] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[04:25:20] [Worker-Main-19/INFO]: Preparing spawn area: 0%
+[04:25:20] [Worker-Main-19/INFO]: Preparing spawn area: 0%
+[04:25:21] [Worker-Main-24/INFO]: Preparing spawn area: 0%
+[04:25:21] [Worker-Main-27/INFO]: Preparing spawn area: 0%
+[04:25:21] [Worker-Main-30/INFO]: Preparing spawn area: 0%
+[04:25:21] [Worker-Main-30/INFO]: Preparing spawn area: 0%
+[04:25:21] [Worker-Main-24/INFO]: Preparing spawn area: 0%
+[04:25:22] [Worker-Main-24/INFO]: Preparing spawn area: 0%
+[04:25:22] [Worker-Main-20/INFO]: Preparing spawn area: 0%
+[04:25:23] [Worker-Main-20/INFO]: Preparing spawn area: 0%
+[04:25:23] [Worker-Main-23/INFO]: Preparing spawn area: 0%
+[04:25:24] [Worker-Main-21/INFO]: Preparing spawn area: 0%
+[04:25:24] [Worker-Main-20/INFO]: Preparing spawn area: 1%
+[04:25:25] [Worker-Main-19/INFO]: Preparing spawn area: 3%
+[04:25:25] [Worker-Main-16/INFO]: Preparing spawn area: 8%
+[04:25:26] [Worker-Main-26/INFO]: Preparing spawn area: 8%
+[04:25:26] [Worker-Main-18/INFO]: Preparing spawn area: 8%
+[04:25:27] [Worker-Main-21/INFO]: Preparing spawn area: 11%
+[04:25:27] [Worker-Main-20/INFO]: Preparing spawn area: 14%
+[04:25:28] [Worker-Main-17/INFO]: Preparing spawn area: 19%
+[04:25:28] [Worker-Main-17/INFO]: Preparing spawn area: 42%
+[04:25:29] [Worker-Main-16/INFO]: Preparing spawn area: 58%
+[04:25:29] [Worker-Main-16/INFO]: Preparing spawn area: 86%
+[04:25:30] [Server thread/INFO]: Time elapsed: 12016 ms
+[04:25:30] [Server thread/INFO]: Done (12.404s)! For help, type "help"
+[04:26:12] [User Authenticator #1/INFO]: UUID of player fnhmm is 7d41e46d-8d8e-44fb-b7cd-fa872df06901
+[04:26:12] [Server thread/INFO]: fnhmm[/25.71.206.46:56779] logged in with entity id 84 at (-1213.0149686003886, 102.0, -531.4181733568854)
+[04:26:12] [Server thread/INFO]: fnhmm joined the game
+[04:35:49] [Server thread/INFO]: fnhmm has completed the challenge [Sniper Duel]
+[04:37:02] [Server thread/INFO]: Villager bnw['Villager'/775, l='ServerLevel[xs1nuFox]', x=-1006.30, y=101.02, z=-726.53] died, message: 'Villager was slain by Zombie'
+[04:37:41] [Server thread/INFO]: Villager bnw['Villager'/611, l='ServerLevel[xs1nuFox]', x=-1006.30, y=101.25, z=-726.52] died, message: 'Villager was slain by Zombie Villager'
+[04:51:53] [Server thread/INFO]: fnhmm lost connection: Disconnected
+[04:51:53] [Server thread/INFO]: fnhmm left the game
+[04:52:04] [Server thread/INFO]: Stopping the server
+[04:52:04] [Server thread/INFO]: Stopping server
+[04:52:04] [Server thread/INFO]: Saving players
+[04:52:04] [Server thread/INFO]: Saving worlds
+[04:52:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:overworld
+[04:52:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:the_nether
+[04:52:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:the_end
+[04:52:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:52:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:52:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:52:05] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
