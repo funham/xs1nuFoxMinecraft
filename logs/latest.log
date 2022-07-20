@@ -1,14 +1,40 @@
-[01:06:36] [Server thread/INFO]: Villager bnw['Librarian'/1904, l='ServerLevel[xs1nuFox]', x=-1170.78, y=96.00, z=-501.30] died, message: 'Librarian hit the ground too hard'
-[02:37:32] [Server thread/INFO]: fnhmm lost connection: Disconnected
-[02:37:32] [Server thread/INFO]: fnhmm left the game
-[02:37:42] [Server thread/INFO]: Stopping the server
-[02:37:42] [Server thread/INFO]: Stopping server
-[02:37:42] [Server thread/INFO]: Saving players
-[02:37:42] [Server thread/INFO]: Saving worlds
-[02:37:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:overworld
-[02:37:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:the_nether
-[02:37:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:the_end
-[02:37:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[02:37:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02:37:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[02:37:42] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02:43:40] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[02:43:48] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02:43:48] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02:43:48] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[02:43:48] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[02:43:48] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02:43:50] [Worker-Main-19/INFO]: Loaded 7 recipes
+[02:44:19] [Worker-Main-19/INFO]: Loaded 1141 advancements
+[02:44:20] [Server thread/INFO]: Starting minecraft server version 1.18.2
+[02:44:20] [Server thread/INFO]: Loading properties
+[02:44:20] [Server thread/INFO]: Default game type: SURVIVAL
+[02:44:20] [Server thread/INFO]: Generating keypair
+[02:44:20] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:44:20] [Server thread/INFO]: Using default channel type
+[02:44:20] [Server thread/INFO]: Preparing level "world"
+[02:44:21] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:44:22] [Worker-Main-20/INFO]: Preparing spawn area: 0%
+[02:44:22] [Worker-Main-20/INFO]: Preparing spawn area: 0%
+[02:44:22] [Worker-Main-18/INFO]: Preparing spawn area: 0%
+[02:44:23] [Worker-Main-25/INFO]: Preparing spawn area: 0%
+[02:44:23] [Worker-Main-17/INFO]: Preparing spawn area: 0%
+[02:44:24] [Worker-Main-28/INFO]: Preparing spawn area: 3%
+[02:44:24] [Worker-Main-18/INFO]: Preparing spawn area: 9%
+[02:44:25] [Worker-Main-29/INFO]: Preparing spawn area: 36%
+[02:44:25] [Worker-Main-30/INFO]: Preparing spawn area: 69%
+[02:44:26] [Server thread/INFO]: Time elapsed: 4706 ms
+[02:44:26] [Server thread/INFO]: Done (5.999s)! For help, type "help"
+[02:44:32] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[02:44:32] [Server thread/INFO]: ssghggggstop<--[HERE]
+[02:44:43] [Server thread/INFO]: Stopping the server
+[02:44:43] [Server thread/INFO]: Stopping server
+[02:44:43] [Server thread/INFO]: Saving players
+[02:44:43] [Server thread/INFO]: Saving worlds
+[02:44:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:overworld
+[02:44:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:the_end
+[02:44:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:the_nether
+[02:44:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:44:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:44:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:44:44] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
