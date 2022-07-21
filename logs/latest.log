@@ -1,60 +1,55 @@
-[11:56:06] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[11:56:09] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:56:09] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:56:09] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[11:56:09] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[11:56:09] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:56:10] [Worker-Main-20/INFO]: Loaded 7 recipes
-[11:56:11] [Worker-Main-20/INFO]: Loaded 1141 advancements
-[11:56:13] [Server thread/INFO]: Starting minecraft server version 1.18.2
-[11:56:13] [Server thread/INFO]: Loading properties
-[11:56:13] [Server thread/INFO]: Default game type: SURVIVAL
-[11:56:13] [Server thread/INFO]: Generating keypair
-[11:56:13] [Server thread/INFO]: Starting Minecraft server on *:25565
-[11:56:13] [Server thread/INFO]: Using default channel type
-[11:56:13] [Server thread/INFO]: Preparing level "world"
-[11:56:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[11:56:15] [Worker-Main-18/INFO]: Preparing spawn area: 0%
-[11:56:15] [Worker-Main-18/INFO]: Preparing spawn area: 0%
-[11:56:15] [Worker-Main-28/INFO]: Preparing spawn area: 0%
-[11:56:15] [Worker-Main-25/INFO]: Preparing spawn area: 0%
-[11:56:15] [Worker-Main-21/INFO]: Preparing spawn area: 0%
-[11:56:16] [Worker-Main-24/INFO]: Preparing spawn area: 0%
-[11:56:16] [Worker-Main-19/INFO]: Preparing spawn area: 0%
-[11:56:17] [Worker-Main-25/INFO]: Preparing spawn area: 4%
-[11:56:17] [Worker-Main-26/INFO]: Preparing spawn area: 4%
-[11:56:18] [Worker-Main-24/INFO]: Preparing spawn area: 4%
-[11:56:18] [Worker-Main-24/INFO]: Preparing spawn area: 31%
-[11:56:19] [Worker-Main-19/INFO]: Preparing spawn area: 46%
-[11:56:19] [Worker-Main-23/INFO]: Preparing spawn area: 76%
-[11:56:21] [Server thread/INFO]: Time elapsed: 7215 ms
-[11:56:21] [Server thread/INFO]: Done (7.328s)! For help, type "help"
-[11:57:09] [User Authenticator #1/INFO]: UUID of player xs1nus is c0827102-a2f3-45e2-b4ea-86f5bd0c5075
-[11:57:09] [Server thread/INFO]: xs1nus[/127.0.0.1:58079] logged in with entity id 85 at (-1216.5546823229672, 104.9375, -500.56315963714366)
-[11:57:09] [Server thread/INFO]: xs1nus joined the game
-[12:39:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
-[12:42:50] [Server thread/INFO]: xs1nus has made the advancement [Who is Cutting Onions?]
-[12:59:08] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-264, y=95, z=-125} gj{x=-263, y=94, z=-125}
-[12:59:08] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-264, y=95, z=-125} gj{x=-263, y=94, z=-125}
-[13:27:33] [Server thread/INFO]: xs1nus lost connection: Disconnected
-[13:27:33] [Server thread/INFO]: xs1nus left the game
-[13:29:07] [User Authenticator #2/INFO]: UUID of player xs1nus is c0827102-a2f3-45e2-b4ea-86f5bd0c5075
-[13:29:07] [Server thread/INFO]: xs1nus[/127.0.0.1:58854] logged in with entity id 30427 at (-1204.732885100357, 100.0, -531.8411137813861)
-[13:29:07] [Server thread/INFO]: xs1nus joined the game
-[14:40:22] [Server thread/INFO]: Villager bnw['Librarian'/44904, l='ServerLevel[xs1nuFox]', x=-1216.88, y=104.90, z=-504.37] died, message: 'Librarian tried to swim in lava'
-[14:40:22] [Server thread/INFO]: Villager bnw['Librarian'/44905, l='ServerLevel[xs1nuFox]', x=-1216.05, y=104.93, z=-506.53] died, message: 'Librarian tried to swim in lava'
-[14:40:31] [Server thread/INFO]: Villager bnw['Librarian'/44908, l='ServerLevel[xs1nuFox]', x=-1216.58, y=104.00, z=-510.63] died, message: 'Librarian burned to death'
-[14:40:32] [Server thread/INFO]: Villager bnw['Librarian'/44897, l='ServerLevel[xs1nuFox]', x=-1218.67, y=110.00, z=-508.67] died, message: 'Librarian burned to death'
-[14:50:59] [Server thread/INFO]: xs1nus lost connection: Disconnected
-[14:50:59] [Server thread/INFO]: xs1nus left the game
-[14:51:04] [Server thread/INFO]: Stopping the server
-[14:51:04] [Server thread/INFO]: Stopping server
-[14:51:04] [Server thread/INFO]: Saving players
-[14:51:04] [Server thread/INFO]: Saving worlds
-[14:51:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:overworld
-[14:51:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:the_nether
-[14:51:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:the_end
-[14:51:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[14:51:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[14:51:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[14:51:05] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18:05:48] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[18:05:50] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:05:50] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:05:50] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:05:50] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:05:50] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:05:51] [Worker-Main-21/INFO]: Loaded 7 recipes
+[18:05:52] [Worker-Main-21/INFO]: Loaded 1141 advancements
+[18:05:54] [Server thread/INFO]: Starting minecraft server version 1.18.2
+[18:05:54] [Server thread/INFO]: Loading properties
+[18:05:54] [Server thread/INFO]: Default game type: SURVIVAL
+[18:05:54] [Server thread/INFO]: Generating keypair
+[18:05:54] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: The handle is invalid
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:?]
+	at java.io.FileInputStream.read(FileInputStream.java:276) ~[?:?]
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:282) ~[?:?]
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:343) ~[?:?]
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:270) ~[?:?]
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:313) ~[?:?]
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:188) ~[?:?]
+	at java.io.InputStreamReader.read(InputStreamReader.java:176) ~[?:?]
+	at java.io.BufferedReader.fill(BufferedReader.java:162) ~[?:?]
+	at java.io.BufferedReader.readLine(BufferedReader.java:329) ~[?:?]
+	at java.io.BufferedReader.readLine(BufferedReader.java:396) ~[?:?]
+	at acx$1.run(SourceFile:99) [server-1.18.2.jar:?]
+[18:05:55] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:05:55] [Server thread/INFO]: Using default channel type
+[18:05:55] [Server thread/INFO]: Preparing level "world"
+[18:05:55] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:05:57] [Worker-Main-23/INFO]: Preparing spawn area: 0%
+[18:05:57] [Worker-Main-24/INFO]: Preparing spawn area: 0%
+[18:05:57] [Worker-Main-24/INFO]: Preparing spawn area: 0%
+[18:05:57] [Worker-Main-24/INFO]: Preparing spawn area: 0%
+[18:05:58] [Worker-Main-25/INFO]: Preparing spawn area: 0%
+[18:05:58] [Worker-Main-26/INFO]: Preparing spawn area: 0%
+[18:05:59] [Worker-Main-24/INFO]: Preparing spawn area: 0%
+[18:05:59] [Worker-Main-27/INFO]: Preparing spawn area: 1%
+[18:06:00] [Worker-Main-19/INFO]: Preparing spawn area: 4%
+[18:06:00] [Worker-Main-16/INFO]: Preparing spawn area: 12%
+[18:06:01] [Worker-Main-26/INFO]: Preparing spawn area: 26%
+[18:06:01] [Worker-Main-24/INFO]: Preparing spawn area: 44%
+[18:06:02] [Worker-Main-16/INFO]: Preparing spawn area: 82%
+[18:06:02] [Server thread/INFO]: Time elapsed: 6728 ms
+[18:06:02] [Server thread/INFO]: Done (6.873s)! For help, type "help"
+[18:06:04] [Server thread/INFO]: Stopping server
+[18:06:04] [Server thread/INFO]: Saving players
+[18:06:04] [Server thread/INFO]: Saving worlds
+[18:06:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:overworld
+[18:06:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:the_end
+[18:06:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:the_nether
+[18:06:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:06:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:06:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:06:05] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
