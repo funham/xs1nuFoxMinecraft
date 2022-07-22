@@ -1,17 +1,43 @@
-[00:29:00] [Server thread/INFO]: Villager bnw['Villager'/51734, l='ServerLevel[xs1nuFox]', x=-1235.35, y=90.06, z=-504.50] died, message: 'Villager was slain by Zombie'
-[00:35:00] [Server thread/INFO]: fnhmm was slain by Iron Golem
-[00:35:03] [Server thread/INFO]: Named entity bje['DaVinci'/51779, l='ServerLevel[xs1nuFox]', x=-1206.33, y=104.04, z=-532.65] died: DaVinci was slain by Iron Golem
-[02:24:15] [Server thread/INFO]: Villager bnw['Cleric'/77462, l='ServerLevel[xs1nuFox]', x=-1222.29, y=112.00, z=-493.51] died, message: 'Cleric tried to swim in lava'
-[02:38:57] [Server thread/INFO]: fnhmm lost connection: Disconnected
-[02:38:57] [Server thread/INFO]: fnhmm left the game
-[02:39:20] [Server thread/INFO]: Stopping the server
-[02:39:20] [Server thread/INFO]: Stopping server
-[02:39:20] [Server thread/INFO]: Saving players
-[02:39:20] [Server thread/INFO]: Saving worlds
-[02:39:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:overworld
-[02:39:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:the_nether
-[02:39:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:the_end
-[02:39:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[02:39:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02:39:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[02:39:21] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19:20:16] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[19:20:18] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:20:18] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:20:18] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:20:18] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:20:18] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:20:19] [Worker-Main-17/INFO]: Loaded 7 recipes
+[19:20:20] [Worker-Main-17/INFO]: Loaded 1141 advancements
+[19:20:22] [Server thread/INFO]: Starting minecraft server version 1.18.2
+[19:20:22] [Server thread/INFO]: Loading properties
+[19:20:22] [Server thread/INFO]: Default game type: SURVIVAL
+[19:20:22] [Server thread/INFO]: Generating keypair
+[19:20:22] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:20:22] [Server thread/INFO]: Using default channel type
+[19:20:22] [Server thread/INFO]: Preparing level "world"
+[19:20:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:20:24] [Worker-Main-26/INFO]: Preparing spawn area: 0%
+[19:20:24] [Worker-Main-18/INFO]: Preparing spawn area: 0%
+[19:20:24] [Worker-Main-18/INFO]: Preparing spawn area: 0%
+[19:20:24] [Worker-Main-29/INFO]: Preparing spawn area: 0%
+[19:20:25] [Worker-Main-25/INFO]: Preparing spawn area: 0%
+[19:20:25] [Worker-Main-16/INFO]: Preparing spawn area: 0%
+[19:20:26] [Worker-Main-19/INFO]: Preparing spawn area: 4%
+[19:20:26] [Worker-Main-19/INFO]: Preparing spawn area: 8%
+[19:20:27] [Worker-Main-18/INFO]: Preparing spawn area: 21%
+[19:20:27] [Worker-Main-29/INFO]: Preparing spawn area: 29%
+[19:20:28] [Worker-Main-18/INFO]: Preparing spawn area: 63%
+[19:20:28] [Server thread/INFO]: Time elapsed: 5838 ms
+[19:20:28] [Server thread/INFO]: Done (5.956s)! For help, type "help"
+[19:21:52] [User Authenticator #1/INFO]: UUID of player xs1nus is c0827102-a2f3-45e2-b4ea-86f5bd0c5075
+[19:21:53] [Server thread/INFO]: xs1nus[/127.0.0.1:50327] logged in with entity id 87 at (-1130.4115699581382, -28.0, -479.96997539764305)
+[19:21:53] [Server thread/INFO]: xs1nus joined the game
+[20:45:28] [Server thread/INFO]: Stopping the server
+[20:45:28] [Server thread/INFO]: Stopping server
+[20:45:28] [Server thread/INFO]: Saving players
+[20:45:28] [Server thread/INFO]: Saving worlds
+[20:45:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:overworld
+[20:45:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:the_nether
+[20:45:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:the_end
+[20:45:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:45:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:45:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:45:30] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
