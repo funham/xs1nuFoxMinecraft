@@ -1,47 +1,93 @@
-[20:45:57] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[20:46:00] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20:46:00] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20:46:00] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[20:46:00] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[20:46:00] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20:46:01] [Worker-Main-16/INFO]: Loaded 7 recipes
-[20:46:01] [Worker-Main-16/INFO]: Loaded 1141 advancements
-[20:46:03] [Server thread/INFO]: Starting minecraft server version 1.18.2
-[20:46:03] [Server thread/INFO]: Loading properties
-[20:46:03] [Server thread/INFO]: Default game type: SURVIVAL
-[20:46:03] [Server thread/INFO]: Generating keypair
-[20:46:03] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:46:03] [Server thread/INFO]: Using default channel type
-[20:46:03] [Server thread/INFO]: Preparing level "world"
-[20:46:04] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:46:05] [Worker-Main-26/INFO]: Preparing spawn area: 0%
-[20:46:05] [Worker-Main-18/INFO]: Preparing spawn area: 0%
-[20:46:05] [Worker-Main-21/INFO]: Preparing spawn area: 0%
-[20:46:05] [Worker-Main-19/INFO]: Preparing spawn area: 0%
-[20:46:06] [Worker-Main-22/INFO]: Preparing spawn area: 0%
-[20:46:06] [Worker-Main-19/INFO]: Preparing spawn area: 0%
-[20:46:07] [Worker-Main-28/INFO]: Preparing spawn area: 0%
-[20:46:07] [Worker-Main-24/INFO]: Preparing spawn area: 4%
-[20:46:08] [Worker-Main-25/INFO]: Preparing spawn area: 6%
-[20:46:08] [Worker-Main-22/INFO]: Preparing spawn area: 15%
-[20:46:09] [Worker-Main-19/INFO]: Preparing spawn area: 43%
-[20:46:09] [Worker-Main-29/INFO]: Preparing spawn area: 86%
-[20:46:10] [Server thread/INFO]: Time elapsed: 5996 ms
-[20:46:10] [Server thread/INFO]: Done (6.136s)! For help, type "help"
-[20:46:11] [User Authenticator #1/INFO]: UUID of player xs1nus is c0827102-a2f3-45e2-b4ea-86f5bd0c5075
-[20:46:12] [Server thread/INFO]: xs1nus[/127.0.0.1:50630] logged in with entity id 84 at (-1248.8291151534522, 90.0, -509.77906179268734)
-[20:46:12] [Server thread/INFO]: xs1nus joined the game
-[20:46:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2494ms or 49 ticks behind
-[20:48:01] [Server thread/INFO]: xs1nus lost connection: Disconnected
-[20:48:01] [Server thread/INFO]: xs1nus left the game
-[20:48:05] [Server thread/INFO]: Stopping the server
-[20:48:05] [Server thread/INFO]: Stopping server
-[20:48:05] [Server thread/INFO]: Saving players
-[20:48:05] [Server thread/INFO]: Saving worlds
-[20:48:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:overworld
-[20:48:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:the_nether
-[20:48:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:the_end
-[20:48:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20:48:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:48:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[20:48:05] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[13:09:13] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[13:09:16] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:09:16] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:09:16] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:09:16] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:09:16] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:09:17] [Worker-Main-19/INFO]: Loaded 7 recipes
+[13:09:17] [Worker-Main-19/INFO]: Loaded 1141 advancements
+[13:09:20] [Server thread/INFO]: Starting minecraft server version 1.18.2
+[13:09:20] [Server thread/INFO]: Loading properties
+[13:09:20] [Server thread/INFO]: Default game type: SURVIVAL
+[13:09:20] [Server thread/INFO]: Generating keypair
+[13:09:20] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:09:20] [Server thread/INFO]: Using default channel type
+[13:09:20] [Server thread/INFO]: Preparing level "world"
+[13:09:21] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:09:22] [Worker-Main-16/INFO]: Preparing spawn area: 0%
+[13:09:22] [Worker-Main-26/INFO]: Preparing spawn area: 0%
+[13:09:22] [Worker-Main-26/INFO]: Preparing spawn area: 0%
+[13:09:22] [Worker-Main-17/INFO]: Preparing spawn area: 0%
+[13:09:23] [Worker-Main-30/INFO]: Preparing spawn area: 0%
+[13:09:23] [Worker-Main-20/INFO]: Preparing spawn area: 0%
+[13:09:24] [Worker-Main-20/INFO]: Preparing spawn area: 0%
+[13:09:24] [Worker-Main-26/INFO]: Preparing spawn area: 1%
+[13:09:25] [Worker-Main-27/INFO]: Preparing spawn area: 5%
+[13:09:25] [Worker-Main-18/INFO]: Preparing spawn area: 6%
+[13:09:26] [Worker-Main-23/INFO]: Preparing spawn area: 16%
+[13:09:26] [Worker-Main-18/INFO]: Preparing spawn area: 48%
+[13:09:27] [Worker-Main-17/INFO]: Preparing spawn area: 60%
+[13:09:27] [Worker-Main-26/INFO]: Preparing spawn area: 98%
+[13:09:28] [Server thread/INFO]: Time elapsed: 7144 ms
+[13:09:28] [Server thread/INFO]: Done (7.331s)! For help, type "help"
+[13:10:15] [User Authenticator #1/INFO]: UUID of player xs1nus is c0827102-a2f3-45e2-b4ea-86f5bd0c5075
+[13:10:16] [Server thread/INFO]: xs1nus[/127.0.0.1:53977] logged in with entity id 86 at (-1213.969977050511, 103.9375, -510.68376037474656)
+[13:10:16] [Server thread/INFO]: xs1nus joined the game
+[13:16:36] [User Authenticator #2/INFO]: UUID of player fnhmm is 7d41e46d-8d8e-44fb-b7cd-fa872df06901
+[13:16:36] [Server thread/INFO]: fnhmm[/25.71.206.46:61391] logged in with entity id 1890 at (-1208.4598254528553, 101.0, -530.8123554613093)
+[13:16:36] [Server thread/INFO]: fnhmm joined the game
+[13:24:55] [Server thread/INFO]: Villager bnw['Librarian'/166, l='ServerLevel[xs1nuFox]', x=-1235.52, y=90.06, z=-504.50] died, message: 'Librarian was slain by Zombie'
+[13:31:50] [Server thread/INFO]: Villager bnw['Librarian'/170, l='ServerLevel[xs1nuFox]', x=-1235.65, y=90.06, z=-504.50] died, message: 'Librarian was slain by Zombie'
+[13:40:56] [Server thread/INFO]: Villager bnw['Librarian'/139, l='ServerLevel[xs1nuFox]', x=-1235.89, y=90.06, z=-504.50] died, message: 'Librarian was slain by Zombie'
+[13:52:54] [Server thread/INFO]: Villager bnw['Librarian'/136, l='ServerLevel[xs1nuFox]', x=-1235.66, y=90.06, z=-504.50] died, message: 'Librarian was slain by Zombie'
+[13:53:45] [Server thread/INFO]: <xs1nus> 53.28
+[13:57:31] [Server thread/INFO]: <xs1nus> 57.26
+[13:57:38] [Server thread/INFO]: <xs1nus> 4min
+[13:57:51] [Server thread/INFO]: Villager bnw['Librarian'/12002, l='ServerLevel[xs1nuFox]', x=-1235.66, y=90.06, z=-504.50] died, message: 'Librarian was slain by Zombie'
+[14:00:33] [Server thread/INFO]: Villager bnw['Librarian'/162, l='ServerLevel[xs1nuFox]', x=-1235.83, y=90.06, z=-504.50] died, message: 'Librarian was slain by Zombie'
+[14:01:30] [Server thread/INFO]: Villager bnw['Librarian'/172, l='ServerLevel[xs1nuFox]', x=-1235.68, y=90.06, z=-504.50] died, message: 'Librarian was slain by Zombie'
+[14:07:10] [Server thread/INFO]: Villager bnw['Librarian'/13750, l='ServerLevel[xs1nuFox]', x=-1235.88, y=90.06, z=-504.50] died, message: 'Librarian was slain by Zombie'
+[14:08:27] [Server thread/INFO]: Villager bnw['Librarian'/215, l='ServerLevel[xs1nuFox]', x=-1235.80, y=90.06, z=-504.50] died, message: 'Librarian was slain by Zombie'
+[14:13:38] [Server thread/INFO]: Villager bnw['Librarian'/164, l='ServerLevel[xs1nuFox]', x=-1235.89, y=90.06, z=-504.50] died, message: 'Librarian was slain by Zombie'
+[14:18:42] [Server thread/INFO]: Villager bnw['Librarian'/18886, l='ServerLevel[xs1nuFox]', x=-1235.66, y=90.06, z=-504.50] died, message: 'Librarian was slain by Zombie'
+[14:24:05] [Server thread/INFO]: Villager bnw['Librarian'/21352, l='ServerLevel[xs1nuFox]', x=-1235.80, y=90.06, z=-504.50] died, message: 'Librarian was slain by Zombie'
+[14:30:54] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=211, y=69, z=-477} gj{x=210, y=68, z=-476}
+[14:44:30] [Server thread/INFO]: Villager bnw['Armorer'/119, l='ServerLevel[xs1nuFox]', x=-1236.87, y=106.00, z=-514.47] died, message: 'Armorer burned to death'
+[14:44:39] [Server thread/INFO]: Villager bnw['Butcher'/120, l='ServerLevel[xs1nuFox]', x=-1224.53, y=103.94, z=-513.84] died, message: 'Butcher burned to death'
+[14:44:41] [Server thread/INFO]: Villager bnw['Butcher'/132, l='ServerLevel[xs1nuFox]', x=-1231.23, y=111.25, z=-511.50] died, message: 'Butcher burned to death'
+[14:44:44] [Server thread/INFO]: Villager bnw['Armorer'/121, l='ServerLevel[xs1nuFox]', x=-1237.78, y=103.00, z=-516.30] died, message: 'Armorer burned to death'
+[14:45:05] [Server thread/INFO]: Villager bnw['Armorer'/135, l='ServerLevel[xs1nuFox]', x=-1227.16, y=104.00, z=-510.15] died, message: 'Armorer tried to swim in lava'
+[14:45:39] [Server thread/INFO]: Villager bnw['Armorer'/123, l='ServerLevel[xs1nuFox]', x=-1228.26, y=104.00, z=-507.76] died, message: 'Armorer burned to death'
+[14:45:43] [Server thread/INFO]: Villager bnw['Fisherman'/133, l='ServerLevel[xs1nuFox]', x=-1227.10, y=104.00, z=-511.86] died, message: 'Fisherman tried to swim in lava'
+[14:47:34] [Server thread/INFO]: Villager bnw['Villager'/495, l='ServerLevel[xs1nuFox]', x=-1042.85, y=79.00, z=-448.94] died, message: 'Villager hit the ground too hard'
+[14:55:47] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-245, y=15, z=-129} gj{x=-241, y=16, z=-129}
+[14:55:47] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-245, y=15, z=-129} gj{x=-241, y=16, z=-130}
+[14:59:04] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-373, y=16, z=-258} gj{x=-374, y=15, z=-258}
+[14:59:15] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-373, y=15, z=-255} gj{x=-374, y=15, z=-255}
+[14:59:58] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-427, y=16, z=-257} gj{x=-426, y=15, z=-256}
+[14:59:58] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-427, y=16, z=-257} gj{x=-426, y=15, z=-256}
+[14:59:59] [Server thread/INFO]: fnhmm lost connection: Disconnected
+[14:59:59] [Server thread/INFO]: fnhmm left the game
+[15:03:41] [User Authenticator #3/INFO]: UUID of player fnhmm is 7d41e46d-8d8e-44fb-b7cd-fa872df06901
+[15:03:42] [Server thread/INFO]: fnhmm[/25.71.206.46:50553] logged in with entity id 41089 at (-1226.6590273517706, 104.0, -509.98655453734534)
+[15:03:42] [Server thread/INFO]: fnhmm joined the game
+[15:15:09] [Server thread/INFO]: fnhmm lost connection: Disconnected
+[15:15:09] [Server thread/INFO]: fnhmm left the game
+[15:15:54] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-300, y=20, z=-253} gj{x=-302, y=17, z=-255}
+[15:17:23] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-326, y=13, z=-303} gj{x=-324, y=13, z=-303}
+[15:17:23] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-326, y=13, z=-303} gj{x=-324, y=13, z=-303}
+[15:17:26] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-323, y=11, z=-304} gj{x=-322, y=13, z=-304}
+[15:17:27] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-323, y=11, z=-304} gj{x=-322, y=13, z=-304}
+[15:59:30] [Server thread/INFO]: xs1nus lost connection: Disconnected
+[15:59:30] [Server thread/INFO]: xs1nus left the game
+[15:59:34] [Server thread/INFO]: Stopping the server
+[15:59:34] [Server thread/INFO]: Stopping server
+[15:59:34] [Server thread/INFO]: Saving players
+[15:59:34] [Server thread/INFO]: Saving worlds
+[15:59:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:overworld
+[15:59:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:the_nether
+[15:59:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:the_end
+[15:59:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:59:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:59:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:59:35] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

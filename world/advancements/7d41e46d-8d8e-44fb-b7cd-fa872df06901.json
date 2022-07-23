@@ -919,6 +919,7 @@
       "minecraft:slime": "2022-06-24 20:22:40 +0300",
       "minecraft:zombified_piglin": "2022-06-21 04:52:54 +0300",
       "minecraft:wither_skeleton": "2022-06-21 05:25:00 +0300",
+      "minecraft:husk": "2022-07-23 14:28:41 +0300",
       "minecraft:cave_spider": "2022-06-28 01:28:04 +0300",
       "minecraft:piglin": "2022-06-20 04:27:33 +0300",
       "minecraft:enderman": "2022-06-27 02:49:15 +0300",
@@ -2463,6 +2464,12 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2022-06-11 00:34:24 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2022-07-23 14:20:50 +0300"
     },
     "done": true
   },
