@@ -9,6 +9,7 @@ with open('lock.txt') as file:
 
 if status == 'locked':
     print('server is Locked!')
+    input()
     sys.exit()
 
 with open('lock.txt', 'w') as file:
