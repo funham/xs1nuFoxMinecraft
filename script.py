@@ -15,6 +15,7 @@ with open('lock.txt', 'w') as file:
     file.write('locked')
 
 os.system('git add .')
+os.system('git commit -m "LOCKED"')
 os.system('git push')
 
 os.system('java -Xms6G -Xmx6G -jar server.jar nogui')
