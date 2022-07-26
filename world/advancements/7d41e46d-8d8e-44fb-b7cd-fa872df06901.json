@@ -942,6 +942,7 @@
       "minecraft:creeper": "2022-06-03 03:37:26 +0300",
       "minecraft:slime": "2022-06-24 20:22:40 +0300",
       "minecraft:zombified_piglin": "2022-06-21 04:52:54 +0300",
+      "minecraft:witch": "2022-07-26 16:59:51 +0300",
       "minecraft:wither_skeleton": "2022-06-21 05:25:00 +0300",
       "minecraft:husk": "2022-07-23 14:28:41 +0300",
       "minecraft:cave_spider": "2022-06-28 01:28:04 +0300",
@@ -4451,6 +4452,12 @@
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2022-06-03 02:21:27 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2022-07-26 16:32:06 +0300"
     },
     "done": true
   },
