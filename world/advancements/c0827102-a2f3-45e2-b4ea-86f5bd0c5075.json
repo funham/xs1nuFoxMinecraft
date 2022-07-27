@@ -894,6 +894,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_banner": {
+    "criteria": {
+      "has_yellow_wool": "2022-07-27 16:38:31 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2022-06-03 23:29:57 +0300"
@@ -1017,6 +1023,12 @@
   "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
     "criteria": {
       "has_polished_blackstone": "2022-07-10 18:35:45 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed": {
+    "criteria": {
+      "has_yellow_wool": "2022-07-27 16:38:31 +0300"
     },
     "done": true
   },
@@ -1679,13 +1691,17 @@
       "minecraft:windswept_hills": "2022-07-21 12:40:32 +0300",
       "minecraft:bamboo_jungle": "2022-07-21 13:08:20 +0300",
       "minecraft:beach": "2022-06-01 23:47:56 +0300",
+      "minecraft:stony_peaks": "2022-07-27 18:24:03 +0300",
       "minecraft:sparse_jungle": "2022-06-01 23:35:57 +0300",
       "minecraft:river": "2022-06-01 23:35:52 +0300",
       "minecraft:lukewarm_ocean": "2022-07-21 12:47:07 +0300",
       "minecraft:dripstone_caves": "2022-06-02 23:05:43 +0300",
+      "minecraft:swamp": "2022-07-27 18:12:17 +0300",
       "minecraft:forest": "2022-06-01 23:46:29 +0300",
+      "minecraft:desert": "2022-07-27 18:10:57 +0300",
       "minecraft:jungle": "2022-06-01 23:26:56 +0300",
       "minecraft:ocean": "2022-06-01 23:49:31 +0300",
+      "minecraft:deep_lukewarm_ocean": "2022-07-27 18:16:28 +0300",
       "minecraft:old_growth_birch_forest": "2022-07-21 13:16:33 +0300",
       "minecraft:meadow": "2022-06-01 23:53:50 +0300",
       "minecraft:savanna": "2022-07-21 12:39:38 +0300",
@@ -1903,6 +1919,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_carpet": {
+    "criteria": {
+      "has_yellow_wool": "2022-07-27 16:38:31 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_oak_wood": {
     "criteria": {
       "has_log": "2022-06-03 00:13:07 +0300"
@@ -1938,9 +1960,10 @@
       "minecraft:crimson_forest": "2022-06-22 20:59:23 +0300",
       "minecraft:nether_wastes": "2022-06-11 00:34:38 +0300",
       "minecraft:soul_sand_valley": "2022-07-10 18:49:08 +0300",
-      "minecraft:warped_forest": "2022-06-13 14:07:08 +0300"
+      "minecraft:warped_forest": "2022-06-13 14:07:08 +0300",
+      "minecraft:basalt_deltas": "2022-07-27 18:29:13 +0300"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/food/cookie": {
     "criteria": {
