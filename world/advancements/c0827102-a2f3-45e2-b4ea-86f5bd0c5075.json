@@ -1386,6 +1386,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/obtain_netherite_hoe": {
+    "criteria": {
+      "netherite_hoe": "2022-07-29 00:16:05 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2022-06-21 18:07:53 +0300"
@@ -2172,6 +2178,12 @@
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2022-06-02 23:05:53 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2022-07-29 02:33:25 +0300"
     },
     "done": true
   },
