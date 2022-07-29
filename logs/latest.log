@@ -1,15 +1,52 @@
-[00:49:24] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-1235, y=94, z=-542} gj{x=-1236, y=98, z=-538}
-[00:54:20] [Server thread/INFO]: fnhmm burned to death
-[00:54:41] [Server thread/INFO]: fnhmm fell from a high place
-[01:34:25] [Server thread/INFO]: fnhmm was slain by xs1nus using [The Wasp]
-[01:49:34] [Server thread/INFO]: Stopping the server
-[01:49:34] [Server thread/INFO]: Stopping server
-[01:49:34] [Server thread/INFO]: Saving players
-[01:49:34] [Server thread/INFO]: Saving worlds
-[01:49:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:overworld
-[01:49:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:the_nether
-[01:49:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:the_end
-[01:49:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:49:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:49:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:49:36] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01:56:44] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[01:56:47] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:56:47] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:56:47] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[01:56:47] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[01:56:47] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:56:48] [Worker-Main-16/INFO]: Loaded 7 recipes
+[01:56:48] [Worker-Main-16/INFO]: Loaded 1141 advancements
+[01:56:50] [Server thread/INFO]: Starting minecraft server version 1.18.2
+[01:56:50] [Server thread/INFO]: Loading properties
+[01:56:50] [Server thread/INFO]: Default game type: SURVIVAL
+[01:56:50] [Server thread/INFO]: Generating keypair
+[01:56:50] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:56:51] [Server thread/INFO]: Using default channel type
+[01:56:51] [Server thread/INFO]: Preparing level "world"
+[01:56:51] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:56:52] [Worker-Main-25/INFO]: Preparing spawn area: 0%
+[01:56:52] [Worker-Main-28/INFO]: Preparing spawn area: 0%
+[01:56:52] [Worker-Main-28/INFO]: Preparing spawn area: 0%
+[01:56:53] [Worker-Main-25/INFO]: Preparing spawn area: 0%
+[01:56:53] [Worker-Main-24/INFO]: Preparing spawn area: 0%
+[01:56:54] [Worker-Main-30/INFO]: Preparing spawn area: 0%
+[01:56:54] [Worker-Main-18/INFO]: Preparing spawn area: 0%
+[01:56:55] [Worker-Main-25/INFO]: Preparing spawn area: 1%
+[01:56:55] [Worker-Main-26/INFO]: Preparing spawn area: 8%
+[01:56:56] [Worker-Main-30/INFO]: Preparing spawn area: 10%
+[01:56:56] [Worker-Main-20/INFO]: Preparing spawn area: 24%
+[01:56:57] [Worker-Main-17/INFO]: Preparing spawn area: 34%
+[01:56:57] [Worker-Main-23/INFO]: Preparing spawn area: 72%
+[01:56:58] [Server thread/INFO]: Time elapsed: 7167 ms
+[01:56:58] [Server thread/INFO]: Done (7.369s)! For help, type "help"
+[01:57:14] [User Authenticator #1/INFO]: UUID of player fnhmm is 7d41e46d-8d8e-44fb-b7cd-fa872df06901
+[01:57:14] [Server thread/INFO]: fnhmm[/127.0.0.1:50333] logged in with entity id 71 at (-1253.2154499559588, 96.0, -554.5080530932767)
+[01:57:14] [Server thread/INFO]: fnhmm joined the game
+[02:20:38] [Server thread/INFO]: fnhmm lost connection: Disconnected
+[02:20:38] [Server thread/INFO]: fnhmm left the game
+[02:30:10] [User Authenticator #2/INFO]: UUID of player fnhmm is 7d41e46d-8d8e-44fb-b7cd-fa872df06901
+[02:30:11] [Server thread/INFO]: fnhmm[/127.0.0.1:59597] logged in with entity id 6265 at (-1229.3312309870696, 100.0, -545.8590996038088)
+[02:30:11] [Server thread/INFO]: fnhmm joined the game
+[02:39:59] [Server thread/INFO]: fnhmm lost connection: Disconnected
+[02:39:59] [Server thread/INFO]: fnhmm left the game
+[02:40:15] [Server thread/INFO]: Stopping the server
+[02:40:16] [Server thread/INFO]: Stopping server
+[02:40:16] [Server thread/INFO]: Saving players
+[02:40:16] [Server thread/INFO]: Saving worlds
+[02:40:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:overworld
+[02:40:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:the_end
+[02:40:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:the_nether
+[02:40:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:40:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:40:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:40:16] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
