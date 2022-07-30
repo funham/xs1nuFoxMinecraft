@@ -1,52 +1,82 @@
-[01:56:44] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[01:56:47] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[01:56:47] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[01:56:47] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[01:56:47] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[01:56:47] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[01:56:48] [Worker-Main-16/INFO]: Loaded 7 recipes
-[01:56:48] [Worker-Main-16/INFO]: Loaded 1141 advancements
-[01:56:50] [Server thread/INFO]: Starting minecraft server version 1.18.2
-[01:56:50] [Server thread/INFO]: Loading properties
-[01:56:50] [Server thread/INFO]: Default game type: SURVIVAL
-[01:56:50] [Server thread/INFO]: Generating keypair
-[01:56:50] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:56:51] [Server thread/INFO]: Using default channel type
-[01:56:51] [Server thread/INFO]: Preparing level "world"
-[01:56:51] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:56:52] [Worker-Main-25/INFO]: Preparing spawn area: 0%
-[01:56:52] [Worker-Main-28/INFO]: Preparing spawn area: 0%
-[01:56:52] [Worker-Main-28/INFO]: Preparing spawn area: 0%
-[01:56:53] [Worker-Main-25/INFO]: Preparing spawn area: 0%
-[01:56:53] [Worker-Main-24/INFO]: Preparing spawn area: 0%
-[01:56:54] [Worker-Main-30/INFO]: Preparing spawn area: 0%
-[01:56:54] [Worker-Main-18/INFO]: Preparing spawn area: 0%
-[01:56:55] [Worker-Main-25/INFO]: Preparing spawn area: 1%
-[01:56:55] [Worker-Main-26/INFO]: Preparing spawn area: 8%
-[01:56:56] [Worker-Main-30/INFO]: Preparing spawn area: 10%
-[01:56:56] [Worker-Main-20/INFO]: Preparing spawn area: 24%
-[01:56:57] [Worker-Main-17/INFO]: Preparing spawn area: 34%
-[01:56:57] [Worker-Main-23/INFO]: Preparing spawn area: 72%
-[01:56:58] [Server thread/INFO]: Time elapsed: 7167 ms
-[01:56:58] [Server thread/INFO]: Done (7.369s)! For help, type "help"
-[01:57:14] [User Authenticator #1/INFO]: UUID of player fnhmm is 7d41e46d-8d8e-44fb-b7cd-fa872df06901
-[01:57:14] [Server thread/INFO]: fnhmm[/127.0.0.1:50333] logged in with entity id 71 at (-1253.2154499559588, 96.0, -554.5080530932767)
-[01:57:14] [Server thread/INFO]: fnhmm joined the game
-[02:20:38] [Server thread/INFO]: fnhmm lost connection: Disconnected
-[02:20:38] [Server thread/INFO]: fnhmm left the game
-[02:30:10] [User Authenticator #2/INFO]: UUID of player fnhmm is 7d41e46d-8d8e-44fb-b7cd-fa872df06901
-[02:30:11] [Server thread/INFO]: fnhmm[/127.0.0.1:59597] logged in with entity id 6265 at (-1229.3312309870696, 100.0, -545.8590996038088)
-[02:30:11] [Server thread/INFO]: fnhmm joined the game
-[02:39:59] [Server thread/INFO]: fnhmm lost connection: Disconnected
-[02:39:59] [Server thread/INFO]: fnhmm left the game
-[02:40:15] [Server thread/INFO]: Stopping the server
-[02:40:16] [Server thread/INFO]: Stopping server
-[02:40:16] [Server thread/INFO]: Saving players
-[02:40:16] [Server thread/INFO]: Saving worlds
-[02:40:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:overworld
-[02:40:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:the_end
-[02:40:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:the_nether
-[02:40:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[02:40:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[02:40:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02:40:16] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20:51:14] [ServerMain/INFO]: Building unoptimized datafixer
+[20:51:14] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[20:51:15] [ServerMain/INFO]: Loaded 7 recipes
+[20:51:16] [ServerMain/INFO]: Loaded 1179 advancements
+[20:51:16] [ServerMain/WARN]: Failed to parse level-type default, defaulting to minecraft:normal
+[20:51:17] [Server thread/INFO]: Starting minecraft server version 1.19.1
+[20:51:17] [Server thread/INFO]: Loading properties
+[20:51:17] [Server thread/INFO]: Default game type: SURVIVAL
+[20:51:17] [Server thread/INFO]: Generating keypair
+[20:51:17] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:51:17] [Server thread/INFO]: Using default channel type
+[20:51:17] [Server thread/INFO]: Preparing level "world"
+[20:51:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:51:20] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[20:51:20] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[20:51:20] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[20:51:20] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[20:51:20] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[20:51:20] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[20:51:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:51:20] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[20:51:21] [Worker-Main-15/INFO]: Preparing spawn area: 4%
+[20:51:21] [Server thread/INFO]: Time elapsed: 4474 ms
+[20:51:21] [Server thread/INFO]: Done (4.628s)! For help, type "help"
+[20:51:31] [User Authenticator #1/INFO]: UUID of player xs1nus is c0827102-a2f3-45e2-b4ea-86f5bd0c5075
+[20:51:31] [Server thread/ERROR]: Invalid signature for profile public key.
+Try restarting your game.
+ahb$a: Missing profile public key.
+This server requires secure profiles.
+	at ahb.a(SourceFile:178) ~[server-1.19.1.jar:?]
+	at ahb.d(SourceFile:119) ~[server-1.19.1.jar:?]
+	at ahb.c(SourceFile:80) ~[server-1.19.1.jar:?]
+	at qv.a(SourceFile:248) ~[server-1.19.1.jar:?]
+	at agy.c(SourceFile:183) ~[server-1.19.1.jar:?]
+	at net.minecraft.server.MinecraftServer.b(SourceFile:886) ~[server-1.19.1.jar:?]
+	at afh.b(SourceFile:289) ~[server-1.19.1.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:819) ~[server-1.19.1.jar:?]
+	at net.minecraft.server.MinecraftServer.v(SourceFile:665) ~[server-1.19.1.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:257) ~[server-1.19.1.jar:?]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+[20:51:31] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@1fa8205d[id=c0827102-a2f3-45e2-b4ea-86f5bd0c5075,name=xs1nus,properties={textures=[com.mojang.authlib.properties.Property@47d2313f]},legacy=false] (/127.0.0.1:53159): Invalid signature for profile public key.
+Try restarting your game.
+[20:51:31] [Server thread/INFO]: com.mojang.authlib.GameProfile@1fa8205d[id=c0827102-a2f3-45e2-b4ea-86f5bd0c5075,name=xs1nus,properties={textures=[com.mojang.authlib.properties.Property@47d2313f]},legacy=false] (/127.0.0.1:53159) lost connection: Invalid signature for profile public key.
+Try restarting your game.
+[20:51:31] [Server thread/WARN]: handleDisconnection() called twice
+[20:52:01] [User Authenticator #2/INFO]: UUID of player xs1nus is c0827102-a2f3-45e2-b4ea-86f5bd0c5075
+[20:52:14] [Server thread/INFO]: com.mojang.authlib.GameProfile@e13ff9c[id=c0827102-a2f3-45e2-b4ea-86f5bd0c5075,name=xs1nus,properties={textures=[com.mojang.authlib.properties.Property@33859c6f]},legacy=false] (/127.0.0.1:53171) lost connection: Disconnected
+[20:52:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7926ms or 158 ticks behind
+[20:52:23] [User Authenticator #3/INFO]: UUID of player xs1nus is c0827102-a2f3-45e2-b4ea-86f5bd0c5075
+[20:52:23] [Server thread/ERROR]: Invalid signature for profile public key.
+Try restarting your game.
+ahb$a: Missing profile public key.
+This server requires secure profiles.
+	at ahb.a(SourceFile:178) ~[server-1.19.1.jar:?]
+	at ahb.d(SourceFile:119) ~[server-1.19.1.jar:?]
+	at ahb.c(SourceFile:80) ~[server-1.19.1.jar:?]
+	at qv.a(SourceFile:248) ~[server-1.19.1.jar:?]
+	at agy.c(SourceFile:183) ~[server-1.19.1.jar:?]
+	at net.minecraft.server.MinecraftServer.b(SourceFile:886) ~[server-1.19.1.jar:?]
+	at afh.b(SourceFile:289) ~[server-1.19.1.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:819) ~[server-1.19.1.jar:?]
+	at net.minecraft.server.MinecraftServer.v(SourceFile:665) ~[server-1.19.1.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:257) ~[server-1.19.1.jar:?]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+[20:52:23] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@4cee5329[id=c0827102-a2f3-45e2-b4ea-86f5bd0c5075,name=xs1nus,properties={textures=[com.mojang.authlib.properties.Property@532bcf7e]},legacy=false] (/127.0.0.1:53185): Invalid signature for profile public key.
+Try restarting your game.
+[20:52:23] [Server thread/INFO]: com.mojang.authlib.GameProfile@4cee5329[id=c0827102-a2f3-45e2-b4ea-86f5bd0c5075,name=xs1nus,properties={textures=[com.mojang.authlib.properties.Property@532bcf7e]},legacy=false] (/127.0.0.1:53185) lost connection: Invalid signature for profile public key.
+Try restarting your game.
+[20:52:23] [Server thread/WARN]: handleDisconnection() called twice
+[20:52:31] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[20:52:31] [Server thread/INFO]: hesstop<--[HERE]
+[20:52:34] [Server thread/INFO]: Stopping the server
+[20:52:34] [Server thread/INFO]: Stopping server
+[20:52:34] [Server thread/INFO]: Saving players
+[20:52:34] [Server thread/INFO]: Saving worlds
+[20:52:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:overworld
+[20:52:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:the_end
+[20:52:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:the_nether
+[20:52:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:52:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:52:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:52:34] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
