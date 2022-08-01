@@ -1567,6 +1567,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2022-08-01 19:22:11 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_stone_bricks": "2022-06-01 23:31:12 +0300"
@@ -2551,6 +2557,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2022-08-01 19:25:38 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_the_recipe": "2022-06-03 04:32:15 +0300"
@@ -2614,6 +2626,12 @@
   "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
     "criteria": {
       "has_pink_dye": "2022-06-29 12:27:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2022-08-01 19:22:11 +0300"
     },
     "done": true
   },
@@ -2756,6 +2774,7 @@
       "minecraft:cave_spider": "2022-06-28 01:28:04 +0300",
       "minecraft:piglin": "2022-06-20 04:27:33 +0300",
       "minecraft:enderman": "2022-06-27 02:49:15 +0300",
+      "minecraft:silverfish": "2022-08-01 20:05:39 +0300",
       "minecraft:zombie": "2022-06-02 23:22:47 +0300",
       "minecraft:drowned": "2022-06-13 13:08:26 +0300",
       "minecraft:zombie_villager": "2022-06-03 05:22:26 +0300"
@@ -2897,6 +2916,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2022-06-27 02:04:18 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2022-08-01 19:21:51 +0300"
     },
     "done": true
   },
@@ -3332,6 +3357,7 @@
       "minecraft:flower_forest": "2022-06-04 02:36:12 +0300",
       "minecraft:frozen_peaks": "2022-07-07 01:04:48 +0300",
       "minecraft:old_growth_birch_forest": "2022-06-04 02:49:30 +0300",
+      "minecraft:deep_dark": "2022-08-01 19:22:12 +0300",
       "minecraft:meadow": "2022-06-01 23:53:45 +0300",
       "minecraft:savanna": "2022-06-04 02:55:37 +0300",
       "minecraft:plains": "2022-06-01 23:40:59 +0300"
@@ -3347,6 +3373,12 @@
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2022-06-01 23:28:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2022-08-01 19:22:11 +0300"
     },
     "done": true
   },
@@ -3838,6 +3870,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2022-08-01 19:22:11 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2022-06-01 23:31:20 +0300"
@@ -4162,6 +4200,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2022-08-01 19:22:11 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2022-06-01 23:47:30 +0300"
@@ -4471,6 +4515,12 @@
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2022-06-20 02:53:04 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2022-08-01 19:22:11 +0300"
     },
     "done": true
   },
