@@ -539,6 +539,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_nether_gold_ore": {
+    "criteria": {
+      "has_nether_gold_ore": "2022-08-06 23:17:08 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_birch_wood": {
     "criteria": {
       "has_log": "2022-07-29 20:39:35 +0300"
@@ -2347,6 +2353,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2022-07-10 18:35:45 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_nether_gold_ore": {
+    "criteria": {
+      "has_nether_gold_ore": "2022-08-06 23:17:08 +0300"
     },
     "done": true
   },
