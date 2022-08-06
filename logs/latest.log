@@ -1,42 +1,39 @@
-[16:13:13] [ServerMain/INFO]: Building unoptimized datafixer
-[16:13:13] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[16:13:14] [ServerMain/INFO]: Loaded 7 recipes
-[16:13:15] [ServerMain/INFO]: Loaded 1179 advancements
-[16:13:15] [ServerMain/WARN]: Failed to parse level-type default, defaulting to minecraft:normal
-[16:13:15] [Server thread/INFO]: Starting minecraft server version 1.19.1
-[16:13:15] [Server thread/INFO]: Loading properties
-[16:13:15] [Server thread/INFO]: Default game type: SURVIVAL
-[16:13:15] [Server thread/INFO]: Generating keypair
-[16:13:15] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:13:15] [Server thread/INFO]: Using default channel type
-[16:13:15] [Server thread/INFO]: Preparing level "world"
-[16:13:16] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[16:13:18] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[16:13:18] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[16:13:18] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[16:13:18] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[16:13:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[16:13:18] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[16:13:19] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[16:13:19] [Worker-Main-6/INFO]: Preparing spawn area: 22%
-[16:13:20] [Server thread/INFO]: Time elapsed: 3930 ms
-[16:13:20] [Server thread/INFO]: Done (4.057s)! For help, type "help"
-[16:19:14] [User Authenticator #1/INFO]: UUID of player xs1nus is c0827102-a2f3-45e2-b4ea-86f5bd0c5075
-[16:19:15] [Server thread/INFO]: xs1nus[/127.0.0.1:64003] logged in with entity id 71 at (-1250.8916602929794, 104.0, -512.6795168658629)
-[16:19:15] [Server thread/INFO]: xs1nus joined the game
-[16:58:51] [Server thread/INFO]: xs1nus lost connection: Disconnected
-[16:58:51] [Server thread/INFO]: xs1nus left the game
-[16:58:53] [User Authenticator #2/INFO]: UUID of player xs1nus is c0827102-a2f3-45e2-b4ea-86f5bd0c5075
-[16:58:53] [Server thread/INFO]: xs1nus[/127.0.0.1:64575] logged in with entity id 7220 at (-1185.7513983051379, 100.0, -513.3771727224103)
-[16:58:53] [Server thread/INFO]: xs1nus joined the game
-[18:53:00] [Server thread/INFO]: Stopping the server
-[18:53:00] [Server thread/INFO]: Stopping server
-[18:53:00] [Server thread/INFO]: Saving players
-[18:53:00] [Server thread/INFO]: Saving worlds
-[18:53:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:overworld
-[18:53:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:the_end
-[18:53:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:the_nether
-[18:53:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[18:53:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[18:53:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[18:53:02] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18:53:54] [ServerMain/INFO]: Building unoptimized datafixer
+[18:53:54] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[18:53:56] [ServerMain/INFO]: Loaded 7 recipes
+[18:53:56] [ServerMain/INFO]: Loaded 1179 advancements
+[18:53:57] [ServerMain/WARN]: Failed to parse level-type default, defaulting to minecraft:normal
+[18:53:57] [Server thread/INFO]: Starting minecraft server version 1.19.1
+[18:53:57] [Server thread/INFO]: Loading properties
+[18:53:57] [Server thread/INFO]: Default game type: SURVIVAL
+[18:53:57] [Server thread/INFO]: Generating keypair
+[18:53:57] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:53:57] [Server thread/INFO]: Using default channel type
+[18:53:57] [Server thread/INFO]: Preparing level "world"
+[18:53:57] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:54:00] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[18:54:00] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[18:54:00] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:54:00] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:54:00] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:54:00] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[18:54:00] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[18:54:01] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[18:54:01] [Worker-Main-14/INFO]: Preparing spawn area: 63%
+[18:54:01] [Server thread/INFO]: Time elapsed: 4246 ms
+[18:54:01] [Server thread/INFO]: Done (4.379s)! For help, type "help"
+[18:54:01] [Server thread/WARN]: handleDisconnection() called twice
+[18:54:03] [User Authenticator #1/INFO]: UUID of player xs1nus is c0827102-a2f3-45e2-b4ea-86f5bd0c5075
+[18:54:03] [Server thread/INFO]: xs1nus[/127.0.0.1:65370] logged in with entity id 70 at (-1275.4118524928472, 90.5, -504.05000001192093)
+[18:54:03] [Server thread/INFO]: xs1nus joined the game
+[18:58:13] [Server thread/INFO]: Stopping the server
+[18:58:13] [Server thread/INFO]: Stopping server
+[18:58:13] [Server thread/INFO]: Saving players
+[18:58:13] [Server thread/INFO]: Saving worlds
+[18:58:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:overworld
+[18:58:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:the_end
+[18:58:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:the_nether
+[18:58:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:58:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:58:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:58:15] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
