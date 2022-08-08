@@ -653,6 +653,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2022-08-08 04:41:44 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2022-06-02 23:38:41 +0300"
@@ -1046,6 +1052,12 @@
   "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
     "criteria": {
       "has_iron_ore": "2022-06-24 19:43:06 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2022-08-08 04:41:43 +0300"
     },
     "done": true
   },
@@ -1663,6 +1675,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2022-08-08 04:41:44 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2022-06-03 22:54:49 +0300"
@@ -1981,6 +1999,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2022-08-08 04:41:44 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_slab": {
     "criteria": {
       "has_blackstone": "2022-06-27 02:04:18 +0300"
@@ -2266,6 +2290,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2022-07-24 23:11:57 +0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/charge_respawn_anchor": {
+    "criteria": {
+      "charge_respawn_anchor": "2022-08-08 05:14:46 +0300"
     },
     "done": true
   },
@@ -2916,6 +2946,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2022-06-27 02:04:18 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2022-08-08 04:41:43 +0300"
     },
     "done": true
   },
@@ -3805,6 +3841,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2022-06-02 00:19:23 +0300",
+      "honey_bottle": "2022-08-07 16:17:17 +0300",
       "cooked_mutton": "2022-06-01 23:56:30 +0300",
       "sweet_berries": "2022-07-07 03:08:06 +0300",
       "cooked_beef": "2022-06-04 01:53:56 +0300",
@@ -3837,6 +3874,12 @@
   "minecraft:recipes/tools/netherite_pickaxe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2022-06-27 05:31:42 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2022-08-08 04:41:43 +0300"
     },
     "done": true
   },

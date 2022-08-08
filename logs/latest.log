@@ -1,13 +1,115 @@
-[00:40:45] [Server thread/INFO]: xs1nus lost connection: Disconnected
-[00:40:45] [Server thread/INFO]: xs1nus left the game
-[00:40:52] [Server thread/INFO]: Stopping the server
-[00:40:52] [Server thread/INFO]: Stopping server
-[00:40:52] [Server thread/INFO]: Saving players
-[00:40:52] [Server thread/INFO]: Saving worlds
-[00:40:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:overworld
-[00:40:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:the_nether
-[00:40:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:the_end
-[00:40:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:40:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:40:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:40:52] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:01:00] [Server thread/INFO]: xs1nus has made the advancement [Oh Shiny]
+[00:02:15] [User Authenticator #13/INFO]: UUID of player fnhmm is 7d41e46d-8d8e-44fb-b7cd-fa872df06901
+[00:02:15] [Server thread/INFO]: fnhmm[/127.0.0.1:54313] logged in with entity id 90815 at (-823.869435244428, 32.0, 157.3655714167393)
+[00:02:15] [Server thread/INFO]: fnhmm joined the game
+[00:02:22] [Server thread/INFO]: <xs1nus> hello there
+[00:02:28] [Server thread/INFO]: <fnhmm> hi
+[00:02:54] [Server thread/INFO]: <fnhmm> how u joined without hamachi?
+[00:03:08] [Server thread/INFO]: <xs1nus> im at ur house
+[00:03:16] [Server thread/INFO]: <fnhmm> cool
+[00:03:58] [Server thread/INFO]: <fnhmm> wanna go ds?
+[00:04:21] [Server thread/INFO]: <xs1nus> it's usually 'vc' in english
+[00:04:31] [Server thread/INFO]: <xs1nus> for voice chat
+[00:04:37] [Server thread/INFO]: <xs1nus> well
+[00:04:39] [Server thread/INFO]: <fnhmm> oh, ok
+[00:04:42] [Server thread/INFO]: <xs1nus> yeah, why not
+[00:11:46] [Server thread/INFO]: fnhmm tried to swim in lava
+[00:20:59] [Server thread/INFO]: Villager btp['Armorer'/91299, l='ServerLevel[xs1nuFox]', x=-1227.38, y=104.05, z=-509.54] died, message: 'Armorer tried to swim in lava'
+[00:21:01] [Server thread/INFO]: Villager btp['Armorer'/91379, l='ServerLevel[xs1nuFox]', x=-1225.41, y=104.24, z=-509.10] died, message: 'Armorer tried to swim in lava'
+[00:21:03] [Server thread/INFO]: Villager btp['Butcher'/91420, l='ServerLevel[xs1nuFox]', x=-1224.98, y=104.56, z=-509.56] died, message: 'Butcher tried to swim in lava'
+[00:21:07] [Server thread/INFO]: Villager btp['Butcher'/91609, l='ServerLevel[xs1nuFox]', x=-1217.01, y=107.94, z=-503.04] died, message: 'Butcher burned to death'
+[00:21:07] [Server thread/INFO]: Villager btp['Armorer'/91322, l='ServerLevel[xs1nuFox]', x=-1227.52, y=104.21, z=-510.56] died, message: 'Armorer tried to swim in lava'
+[00:21:08] [Server thread/INFO]: Villager btp['Armorer'/91446, l='ServerLevel[xs1nuFox]', x=-1219.59, y=104.00, z=-510.62] died, message: 'Armorer burned to death'
+[00:21:11] [Server thread/INFO]: Villager btp['Butcher'/91298, l='ServerLevel[xs1nuFox]', x=-1216.52, y=106.50, z=-505.15] died, message: 'Butcher burned to death'
+[00:21:11] [Server thread/INFO]: Villager btp['Armorer'/91386, l='ServerLevel[xs1nuFox]', x=-1220.30, y=103.00, z=-508.70] died, message: 'Armorer burned to death'
+[00:21:22] [Server thread/INFO]: Villager btp['Cleric'/91449, l='ServerLevel[xs1nuFox]', x=-1234.59, y=102.94, z=-515.50] died, message: 'Cleric burned to death'
+[00:21:23] [Server thread/INFO]: fnhmm burned to death
+[00:21:27] [Server thread/INFO]: Villager btp['Mason'/91387, l='ServerLevel[xs1nuFox]', x=-1219.69, y=110.00, z=-508.48] died, message: 'Mason burned to death'
+[00:21:40] [Server thread/INFO]: Villager btp['Butcher'/91419, l='ServerLevel[xs1nuFox]', x=-1224.20, y=103.94, z=-513.75] died, message: 'Butcher tried to swim in lava'
+[00:22:00] [Server thread/INFO]: Villager btp['Weaponsmith'/91378, l='ServerLevel[xs1nuFox]', x=-1226.34, y=104.81, z=-515.16] died, message: 'Weaponsmith tried to swim in lava'
+[00:28:29] [Server thread/INFO]: fnhmm was shot by Skeleton
+[00:54:54] [Server thread/INFO]: xs1nus lost connection: Disconnected
+[00:54:54] [Server thread/INFO]: xs1nus left the game
+[02:03:07] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-5213, y=67, z=-1055} gt{x=-5211, y=66, z=-1055}
+[02:03:07] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-5213, y=67, z=-1055} gt{x=-5211, y=66, z=-1055}
+[02:03:07] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-5213, y=67, z=-1055} gt{x=-5211, y=66, z=-1055}
+[02:03:07] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-5213, y=67, z=-1055} gt{x=-5211, y=66, z=-1055}
+[02:03:10] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-5217, y=69, z=-1056} gt{x=-5217, y=68, z=-1056}
+[02:03:10] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-5217, y=69, z=-1056} gt{x=-5217, y=68, z=-1056}
+[02:03:10] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-5217, y=69, z=-1056} gt{x=-5217, y=68, z=-1056}
+[02:03:10] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-5217, y=69, z=-1056} gt{x=-5217, y=68, z=-1056}
+[02:03:14] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-5212, y=68, z=-1059} gt{x=-5214, y=68, z=-1060}
+[02:03:14] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-5212, y=68, z=-1059} gt{x=-5214, y=68, z=-1060}
+[02:03:14] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-5212, y=68, z=-1059} gt{x=-5214, y=68, z=-1060}
+[02:03:14] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-5212, y=68, z=-1059} gt{x=-5214, y=68, z=-1060}
+[02:03:14] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-5212, y=68, z=-1059} gt{x=-5214, y=68, z=-1060}
+[02:03:14] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-5212, y=68, z=-1059} gt{x=-5214, y=68, z=-1060}
+[02:03:51] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-5212, y=67, z=-1058} gt{x=-5211, y=66, z=-1059}
+[02:03:51] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-5212, y=67, z=-1058} gt{x=-5211, y=66, z=-1059}
+[02:03:53] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-5209, y=66, z=-1063} gt{x=-5208, y=66, z=-1062}
+[02:03:53] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-5209, y=66, z=-1063} gt{x=-5208, y=66, z=-1062}
+[02:03:57] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-5214, y=67, z=-1060} gt{x=-5213, y=67, z=-1059}
+[02:03:57] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-5214, y=67, z=-1060} gt{x=-5213, y=67, z=-1059}
+[02:03:57] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-5214, y=67, z=-1060} gt{x=-5213, y=67, z=-1059}
+[02:03:57] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-5215, y=67, z=-1061} gt{x=-5215, y=66, z=-1059}
+[02:04:00] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-5216, y=66, z=-1054} gt{x=-5217, y=66, z=-1056}
+[02:04:00] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-5216, y=66, z=-1054} gt{x=-5217, y=66, z=-1056}
+[02:04:00] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-5216, y=66, z=-1054} gt{x=-5217, y=66, z=-1056}
+[02:04:49] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-5213, y=68, z=-1071} gt{x=-5212, y=70, z=-1072}
+[02:04:49] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-5213, y=68, z=-1071} gt{x=-5212, y=70, z=-1072}
+[02:04:49] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-5213, y=68, z=-1071} gt{x=-5212, y=70, z=-1072}
+[02:05:02] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-5204, y=64, z=-1066} gt{x=-5205, y=64, z=-1066}
+[02:06:39] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-5214, y=66, z=-1058} gt{x=-5213, y=65, z=-1058}
+[02:10:00] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-5192, y=63, z=-1059} gt{x=-5193, y=64, z=-1050}
+[02:10:22] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-5189, y=64, z=-1068} gt{x=-5190, y=63, z=-1068}
+[02:10:36] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-5188, y=64, z=-1065} gt{x=-5188, y=64, z=-1066}
+[02:10:36] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-5188, y=64, z=-1065} gt{x=-5188, y=64, z=-1066}
+[02:23:52] [Server thread/INFO]: fnhmm lost connection: Disconnected
+[02:23:52] [Server thread/INFO]: fnhmm left the game
+[03:20:32] [User Authenticator #14/INFO]: UUID of player fnhmm is 7d41e46d-8d8e-44fb-b7cd-fa872df06901
+[03:20:32] [Server thread/INFO]: fnhmm[/127.0.0.1:61270] logged in with entity id 142967 at (-5187.300000011921, 67.0, -1046.5959467950522)
+[03:20:32] [Server thread/INFO]: fnhmm joined the game
+[03:20:54] [Server thread/INFO]: fnhmm lost connection: Disconnected
+[03:20:54] [Server thread/INFO]: fnhmm left the game
+[03:21:21] [User Authenticator #15/INFO]: UUID of player fnhmm is 7d41e46d-8d8e-44fb-b7cd-fa872df06901
+[03:21:21] [Server thread/INFO]: fnhmm[/127.0.0.1:61277] logged in with entity id 143255 at (-5187.300000011921, 67.0, -1046.5959467950522)
+[03:21:21] [Server thread/INFO]: fnhmm joined the game
+[03:24:31] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-5192, y=64, z=-1044} gt{x=-5192, y=64, z=-1043}
+[03:24:31] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-5192, y=64, z=-1044} gt{x=-5192, y=64, z=-1043}
+[03:24:31] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-5192, y=64, z=-1044} gt{x=-5192, y=64, z=-1043}
+[03:25:06] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-5176, y=67, z=-1010} gt{x=-5176, y=67, z=-1011}
+[03:25:06] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-5176, y=67, z=-1010} gt{x=-5176, y=67, z=-1011}
+[03:25:06] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-5176, y=67, z=-1010} gt{x=-5176, y=67, z=-1011}
+[03:49:59] [Server thread/INFO]: fnhmm lost connection: Disconnected
+[03:49:59] [Server thread/INFO]: fnhmm left the game
+[03:50:31] [User Authenticator #16/INFO]: UUID of player fnhmm is 7d41e46d-8d8e-44fb-b7cd-fa872df06901
+[03:50:31] [Server thread/INFO]: fnhmm[/127.0.0.1:56389] logged in with entity id 148943 at (-815.4663743126382, 33.0, 141.16273564890275)
+[03:50:31] [Server thread/INFO]: fnhmm joined the game
+[03:53:08] [Server thread/INFO]: fnhmm lost connection: Disconnected
+[03:53:08] [Server thread/INFO]: fnhmm left the game
+[03:54:07] [User Authenticator #17/INFO]: UUID of player fnhmm is 7d41e46d-8d8e-44fb-b7cd-fa872df06901
+[03:54:07] [Server thread/INFO]: fnhmm[/127.0.0.1:56412] logged in with entity id 149258 at (-821.8934068132713, 53.0, 124.1824153160865)
+[03:54:07] [Server thread/INFO]: fnhmm joined the game
+[04:05:36] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-814, y=32, z=146} gt{x=-815, y=32, z=146}
+[04:05:36] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-814, y=32, z=146} gt{x=-815, y=32, z=146}
+[04:05:36] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-814, y=32, z=146} gt{x=-815, y=32, z=146}
+[04:05:36] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-814, y=32, z=146} gt{x=-815, y=32, z=146}
+[04:58:00] [Server thread/INFO]: fnhmm lost connection: Disconnected
+[04:58:00] [Server thread/INFO]: fnhmm left the game
+[04:59:32] [User Authenticator #18/INFO]: UUID of player fnhmm is 7d41e46d-8d8e-44fb-b7cd-fa872df06901
+[04:59:32] [Server thread/INFO]: fnhmm[/127.0.0.1:51008] logged in with entity id 160436 at (-803.6339155384851, 32.0, 153.0591528670288)
+[04:59:32] [Server thread/INFO]: fnhmm joined the game
+[05:14:46] [Server thread/INFO]: fnhmm has made the advancement [Not Quite "Nine" Lives]
+[05:15:25] [Server thread/INFO]: fnhmm lost connection: Disconnected
+[05:15:25] [Server thread/INFO]: fnhmm left the game
+[05:15:41] [Server thread/INFO]: Stopping the server
+[05:15:41] [Server thread/INFO]: Stopping server
+[05:15:41] [Server thread/INFO]: Saving players
+[05:15:41] [Server thread/INFO]: Saving worlds
+[05:15:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:overworld
+[05:15:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:the_end
+[05:15:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:the_nether
+[05:15:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:15:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:15:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:15:42] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
