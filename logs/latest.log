@@ -1,50 +1,34 @@
-[18:08:51] [ServerMain/INFO]: Building unoptimized datafixer
-[18:08:52] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[18:08:54] [ServerMain/INFO]: Loaded 7 recipes
-[18:08:55] [ServerMain/INFO]: Loaded 1179 advancements
-[18:08:56] [ServerMain/WARN]: Failed to parse level-type default, defaulting to minecraft:normal
-[18:08:56] [Server thread/INFO]: Starting minecraft server version 1.19.1
-[18:08:56] [Server thread/INFO]: Loading properties
-[18:08:56] [Server thread/INFO]: Default game type: SURVIVAL
-[18:08:56] [Server thread/INFO]: Generating keypair
-[18:08:56] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:08:57] [Server thread/INFO]: Using default channel type
-[18:08:57] [Server thread/INFO]: Preparing level "world"
-[18:08:58] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:09:01] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[18:09:02] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[18:09:02] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[18:09:02] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[18:09:02] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[18:09:02] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[18:09:02] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[18:09:02] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[18:09:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:09:03] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[18:09:03] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[18:09:03] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[18:09:04] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[18:09:04] [Worker-Main-15/INFO]: Preparing spawn area: 0%
-[18:09:05] [Worker-Main-11/INFO]: Preparing spawn area: 0%
-[18:09:05] [Worker-Main-15/INFO]: Preparing spawn area: 0%
-[18:09:06] [Worker-Main-1/INFO]: Preparing spawn area: 19%
-[18:09:06] [Worker-Main-2/INFO]: Preparing spawn area: 71%
-[18:09:07] [Server thread/INFO]: Time elapsed: 8965 ms
-[18:09:07] [Server thread/INFO]: Done (9.566s)! For help, type "help"
-[18:09:24] [User Authenticator #1/INFO]: UUID of player xs1nus is c0827102-a2f3-45e2-b4ea-86f5bd0c5075
-[18:09:24] [Server thread/INFO]: xs1nus[/127.0.0.1:63596] logged in with entity id 71 at (-1157.620327953988, -3.0, -518.4051094500796)
-[18:09:24] [Server thread/INFO]: xs1nus joined the game
-[18:09:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2489ms or 49 ticks behind
-[23:53:41] [Server thread/INFO]: xs1nus lost connection: Disconnected
-[23:53:41] [Server thread/INFO]: xs1nus left the game
-[23:53:47] [Server thread/INFO]: Stopping the server
-[23:53:47] [Server thread/INFO]: Stopping server
-[23:53:47] [Server thread/INFO]: Saving players
-[23:53:47] [Server thread/INFO]: Saving worlds
-[23:53:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:overworld
-[23:53:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:the_nether
-[23:53:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:the_end
-[23:53:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:53:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:53:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:53:48] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:36:33] [ServerMain/INFO]: Building unoptimized datafixer
+[00:36:34] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[00:36:35] [ServerMain/INFO]: Loaded 7 recipes
+[00:36:35] [ServerMain/INFO]: Loaded 1179 advancements
+[00:36:36] [ServerMain/WARN]: Failed to parse level-type default, defaulting to minecraft:normal
+[00:36:36] [Server thread/INFO]: Starting minecraft server version 1.19.1
+[00:36:36] [Server thread/INFO]: Loading properties
+[00:36:36] [Server thread/INFO]: Default game type: SURVIVAL
+[00:36:36] [Server thread/INFO]: Generating keypair
+[00:36:36] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:36:36] [Server thread/INFO]: Using default channel type
+[00:36:36] [Server thread/INFO]: Preparing level "world"
+[00:36:36] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:36:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:36:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:36:38] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[00:36:38] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[00:36:38] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[00:36:39] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[00:36:39] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[00:36:40] [Worker-Main-3/INFO]: Preparing spawn area: 75%
+[00:36:40] [Server thread/INFO]: Time elapsed: 3660 ms
+[00:36:40] [Server thread/INFO]: Done (3.792s)! For help, type "help"
+[00:36:51] [Server thread/INFO]: Stopping the server
+[00:36:51] [Server thread/INFO]: Stopping server
+[00:36:51] [Server thread/INFO]: Saving players
+[00:36:51] [Server thread/INFO]: Saving worlds
+[00:36:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:overworld
+[00:36:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:the_end
+[00:36:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:the_nether
+[00:36:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:36:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:36:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:36:52] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
