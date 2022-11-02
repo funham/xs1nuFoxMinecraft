@@ -1,53 +1,40 @@
-[12:12:41] [ServerMain/INFO]: Building unoptimized datafixer
-[12:12:41] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[12:12:43] [ServerMain/INFO]: Loaded 7 recipes
-[12:12:43] [ServerMain/INFO]: Loaded 1179 advancements
-[12:12:44] [ServerMain/WARN]: Failed to parse level-type default, defaulting to minecraft:normal
-[12:12:44] [Server thread/INFO]: Starting minecraft server version 1.19.1
-[12:12:44] [Server thread/INFO]: Loading properties
-[12:12:44] [Server thread/INFO]: Default game type: SURVIVAL
-[12:12:44] [Server thread/INFO]: Generating keypair
-[12:12:44] [Server thread/INFO]: Starting Minecraft server on *:25565
-[12:12:44] [Server thread/INFO]: Using default channel type
-[12:12:44] [Server thread/INFO]: Preparing level "world"
-[12:12:44] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[12:12:47] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[12:12:47] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[12:12:47] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[12:12:47] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[12:12:47] [Worker-Main-15/INFO]: Preparing spawn area: 0%
-[12:12:47] [Worker-Main-15/INFO]: Preparing spawn area: 0%
-[12:12:47] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[12:12:48] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[12:12:48] [Worker-Main-3/INFO]: Preparing spawn area: 50%
-[12:12:48] [Server thread/INFO]: Time elapsed: 4228 ms
-[12:12:48] [Server thread/INFO]: Done (4.401s)! For help, type "help"
-[12:14:24] [User Authenticator #1/INFO]: UUID of player fnhmm is 7d41e46d-8d8e-44fb-b7cd-fa872df06901
-[12:14:24] [Server thread/INFO]: fnhmm[/127.0.0.1:55216] logged in with entity id 71 at (-828.863557215924, 53.0, 119.95004121029963)
-[12:14:24] [Server thread/INFO]: fnhmm joined the game
-[12:17:36] [Server thread/INFO]: fnhmm withered away
-[12:17:41] [Server thread/WARN]: fnhmm moved too quickly! 54.66185473160249,0.0,-5.934133363380795
-[12:17:41] [Server thread/WARN]: fnhmm moved too quickly! 54.66185473160249,0.0,-5.934133363380795
-[12:18:47] [Server thread/INFO]: fnhmm was slain by Wither Skeleton
-[12:30:12] [Server thread/INFO]: fnhmm lost connection: Disconnected
-[12:30:12] [Server thread/INFO]: fnhmm left the game
-[12:59:26] [User Authenticator #2/INFO]: UUID of player fnhmm is 7d41e46d-8d8e-44fb-b7cd-fa872df06901
-[12:59:26] [Server thread/INFO]: fnhmm[/127.0.0.1:56119] logged in with entity id 3415 at (-1251.8955159672546, 97.0, -687.8541459880181)
-[12:59:26] [Server thread/INFO]: fnhmm joined the game
-[13:27:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 772689ms or 15453 ticks behind
-[13:27:39] [Server thread/INFO]: fnhmm lost connection: Timed out
-[13:27:39] [Server thread/INFO]: fnhmm left the game
-[13:27:58] [Server thread/INFO]: /127.0.0.1:56249 lost connection: Disconnected
-[13:28:10] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[13:28:10] [Server thread/INFO]:  dedededstop<--[HERE]
-[13:28:16] [Server thread/INFO]: Stopping the server
-[13:28:16] [Server thread/INFO]: Stopping server
-[13:28:16] [Server thread/INFO]: Saving players
-[13:28:16] [Server thread/INFO]: Saving worlds
-[13:28:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:overworld
-[13:28:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:the_nether
-[13:28:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:the_end
-[13:28:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[13:28:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[13:28:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[13:28:17] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[13:29:00] [ServerMain/INFO]: Building unoptimized datafixer
+[13:29:00] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[13:29:02] [ServerMain/INFO]: Loaded 7 recipes
+[13:29:02] [ServerMain/INFO]: Loaded 1179 advancements
+[13:29:02] [ServerMain/WARN]: Failed to parse level-type default, defaulting to minecraft:normal
+[13:29:02] [Server thread/INFO]: Starting minecraft server version 1.19.1
+[13:29:02] [Server thread/INFO]: Loading properties
+[13:29:02] [Server thread/INFO]: Default game type: SURVIVAL
+[13:29:02] [Server thread/INFO]: Generating keypair
+[13:29:02] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:29:03] [Server thread/INFO]: Using default channel type
+[13:29:03] [Server thread/INFO]: Preparing level "world"
+[13:29:03] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:29:06] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[13:29:06] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[13:29:06] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[13:29:06] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[13:29:06] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[13:29:06] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[13:29:06] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[13:29:06] [Worker-Main-8/INFO]: Preparing spawn area: 13%
+[13:29:07] [Server thread/INFO]: Time elapsed: 3880 ms
+[13:29:07] [Server thread/INFO]: Done (4.026s)! For help, type "help"
+[13:29:16] [User Authenticator #1/INFO]: UUID of player fnhmm is 7d41e46d-8d8e-44fb-b7cd-fa872df06901
+[13:29:16] [Server thread/INFO]: fnhmm[/127.0.0.1:56372] logged in with entity id 71 at (-1243.1651135002876, 96.0, -686.1438252650416)
+[13:29:16] [Server thread/INFO]: fnhmm joined the game
+[13:29:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
+[14:12:49] [Server thread/INFO]: fnhmm lost connection: Disconnected
+[14:12:49] [Server thread/INFO]: fnhmm left the game
+[14:12:59] [Server thread/INFO]: Stopping the server
+[14:12:59] [Server thread/INFO]: Stopping server
+[14:12:59] [Server thread/INFO]: Saving players
+[14:12:59] [Server thread/INFO]: Saving worlds
+[14:13:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:overworld
+[14:13:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:the_nether
+[14:13:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:the_end
+[14:13:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14:13:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:13:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:13:00] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
