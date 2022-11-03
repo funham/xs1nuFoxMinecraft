@@ -833,6 +833,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_deepslate_gold_ore": {
+    "criteria": {
+      "has_deepslate_gold_ore": "2022-11-03 09:16:07 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
       "has_planks": "2022-06-20 02:53:04 +0300"
@@ -854,6 +860,12 @@
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2022-06-02 23:38:13 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_gold_ore": {
+    "criteria": {
+      "has_gold_ore": "2022-11-03 09:17:10 +0300"
     },
     "done": true
   },
@@ -1485,6 +1497,7 @@
       "minecraft:pig": "2022-06-03 03:09:55 +0300",
       "minecraft:sheep": "2022-06-03 02:21:27 +0300",
       "minecraft:cow": "2022-06-03 03:07:59 +0300",
+      "minecraft:horse": "2022-11-03 09:05:53 +0300",
       "minecraft:bee": "2022-06-24 16:40:31 +0300"
     },
     "done": false
@@ -1834,6 +1847,12 @@
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2022-07-27 04:24:59 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_gold_ore": {
+    "criteria": {
+      "has_gold_ore": "2022-11-03 09:17:10 +0300"
     },
     "done": true
   },
@@ -3805,6 +3824,12 @@
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2022-06-02 23:36:09 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_deepslate_gold_ore": {
+    "criteria": {
+      "has_deepslate_gold_ore": "2022-11-03 09:16:07 +0300"
     },
     "done": true
   },
