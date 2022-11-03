@@ -1,53 +1,45 @@
-[08:43:30] [ServerMain/INFO]: Building unoptimized datafixer
-[08:43:30] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[08:43:32] [ServerMain/INFO]: Loaded 7 recipes
-[08:43:32] [ServerMain/INFO]: Loaded 1179 advancements
-[08:43:33] [ServerMain/WARN]: Failed to parse level-type default, defaulting to minecraft:normal
-[08:43:33] [Server thread/INFO]: Starting minecraft server version 1.19.1
-[08:43:33] [Server thread/INFO]: Loading properties
-[08:43:33] [Server thread/INFO]: Default game type: SURVIVAL
-[08:43:33] [Server thread/INFO]: Generating keypair
-[08:43:33] [Server thread/INFO]: Starting Minecraft server on *:25565
-[08:43:33] [Server thread/INFO]: Using default channel type
-[08:43:33] [Server thread/INFO]: Preparing level "world"
-[08:43:33] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[08:43:36] [Worker-Main-11/INFO]: Preparing spawn area: 0%
-[08:43:36] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[08:43:36] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[08:43:36] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[08:43:36] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[08:43:36] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[08:43:37] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[08:43:37] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[08:43:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[08:43:38] [Worker-Main-4/INFO]: Preparing spawn area: 72%
-[08:43:38] [Server thread/INFO]: Time elapsed: 4620 ms
-[08:43:38] [Server thread/INFO]: Done (4.774s)! For help, type "help"
-[08:45:20] [User Authenticator #1/INFO]: UUID of player fnhmm is 7d41e46d-8d8e-44fb-b7cd-fa872df06901
-[08:45:20] [Server thread/INFO]: fnhmm[/127.0.0.1:55303] logged in with entity id 72 at (-136.96298453698793, 61.0, 13.699999988079071)
-[08:45:20] [Server thread/INFO]: fnhmm joined the game
-[08:48:23] [Server thread/INFO]: fnhmm lost connection: Disconnected
-[08:48:23] [Server thread/INFO]: fnhmm left the game
-[08:48:40] [User Authenticator #2/INFO]: UUID of player fnhmm is 7d41e46d-8d8e-44fb-b7cd-fa872df06901
-[08:48:40] [Server thread/INFO]: fnhmm[/127.0.0.1:55357] logged in with entity id 434 at (-136.9585164062066, 61.0, 8.016471556727891)
-[08:48:40] [Server thread/INFO]: fnhmm joined the game
-[09:04:26] [Server thread/INFO]: fnhmm lost connection: Disconnected
-[09:04:26] [Server thread/INFO]: fnhmm left the game
-[09:05:15] [User Authenticator #3/INFO]: UUID of player fnhmm is 7d41e46d-8d8e-44fb-b7cd-fa872df06901
-[09:05:15] [Server thread/INFO]: fnhmm[/127.0.0.1:55481] logged in with entity id 4654 at (-1192.119964237456, 100.0, -527.2822709296731)
-[09:05:15] [Server thread/INFO]: fnhmm joined the game
-[09:07:30] [Server thread/WARN]: Horse (vehicle of fnhmm) moved wrongly! 0.2702335123071862
-[09:07:43] [Server thread/WARN]: Horse (vehicle of fnhmm) moved wrongly! 0.42824491785802365
-[09:20:16] [Server thread/INFO]: fnhmm lost connection: Disconnected
-[09:20:16] [Server thread/INFO]: fnhmm left the game
-[09:21:05] [Server thread/INFO]: Stopping the server
-[09:21:05] [Server thread/INFO]: Stopping server
-[09:21:05] [Server thread/INFO]: Saving players
-[09:21:05] [Server thread/INFO]: Saving worlds
-[09:21:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:overworld
-[09:21:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:the_end
-[09:21:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:the_nether
-[09:21:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[09:21:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[09:21:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[09:21:06] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[13:29:36] [ServerMain/INFO]: Building unoptimized datafixer
+[13:29:37] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[13:29:38] [ServerMain/INFO]: Loaded 7 recipes
+[13:29:38] [ServerMain/INFO]: Loaded 1179 advancements
+[13:29:39] [ServerMain/WARN]: Failed to parse level-type default, defaulting to minecraft:normal
+[13:29:39] [Server thread/INFO]: Starting minecraft server version 1.19.1
+[13:29:39] [Server thread/INFO]: Loading properties
+[13:29:39] [Server thread/INFO]: Default game type: SURVIVAL
+[13:29:39] [Server thread/INFO]: Generating keypair
+[13:29:39] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:29:39] [Server thread/INFO]: Using default channel type
+[13:29:39] [Server thread/INFO]: Preparing level "world"
+[13:29:39] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:29:42] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[13:29:42] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[13:29:42] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[13:29:42] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[13:29:42] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[13:29:42] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[13:29:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:29:43] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[13:29:43] [Worker-Main-2/INFO]: Preparing spawn area: 3%
+[13:29:44] [Worker-Main-8/INFO]: Preparing spawn area: 88%
+[13:29:44] [Server thread/INFO]: Time elapsed: 4558 ms
+[13:29:44] [Server thread/INFO]: Done (4.703s)! For help, type "help"
+[13:30:18] [User Authenticator #1/INFO]: UUID of player fnhmm is 7d41e46d-8d8e-44fb-b7cd-fa872df06901
+[13:30:18] [Server thread/INFO]: fnhmm[/127.0.0.1:61636] logged in with entity id 72 at (-1106.300000011921, 6.0, -684.6999999880791)
+[13:30:18] [Server thread/INFO]: fnhmm joined the game
+[13:30:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2199ms or 43 ticks behind
+[14:06:53] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-420, y=90, z=-125} gt{x=-420, y=89, z=-125}
+[14:07:05] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-410, y=75, z=-120} gt{x=-410, y=73, z=-120}
+[14:08:31] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-470, y=58, z=-104} gt{x=-404, y=75, z=-117}
+[14:10:54] [Server thread/INFO]: fnhmm lost connection: Disconnected
+[14:10:54] [Server thread/INFO]: fnhmm left the game
+[14:11:02] [Server thread/INFO]: Stopping the server
+[14:11:02] [Server thread/INFO]: Stopping server
+[14:11:02] [Server thread/INFO]: Saving players
+[14:11:02] [Server thread/INFO]: Saving worlds
+[14:11:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:overworld
+[14:11:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:the_end
+[14:11:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:the_nether
+[14:11:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14:11:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:11:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:11:03] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
