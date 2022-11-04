@@ -1,111 +1,66 @@
-[18:27:19] [ServerMain/INFO]: Building unoptimized datafixer
-[18:27:20] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[18:27:22] [ServerMain/INFO]: Loaded 7 recipes
-[18:27:22] [ServerMain/INFO]: Loaded 1179 advancements
-[18:27:22] [ServerMain/WARN]: Failed to parse level-type default, defaulting to minecraft:normal
-[18:27:22] [Server thread/INFO]: Starting minecraft server version 1.19.1
-[18:27:22] [Server thread/INFO]: Loading properties
-[18:27:22] [Server thread/INFO]: Default game type: SURVIVAL
-[18:27:23] [Server thread/INFO]: Generating keypair
-[18:27:23] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:27:23] [Server thread/INFO]: Using default channel type
-[18:27:23] [Server thread/INFO]: Preparing level "world"
-[18:27:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:27:26] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[18:27:26] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[18:27:26] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[18:27:26] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[18:27:26] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[18:27:26] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[18:27:26] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[18:27:26] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[18:27:27] [Worker-Main-2/INFO]: Preparing spawn area: 7%
-[18:27:27] [Worker-Main-9/INFO]: Preparing spawn area: 96%
-[18:27:27] [Server thread/INFO]: Time elapsed: 4520 ms
-[18:27:27] [Server thread/INFO]: Done (4.668s)! For help, type "help"
-[18:27:43] [User Authenticator #1/INFO]: UUID of player fnhmm is 7d41e46d-8d8e-44fb-b7cd-fa872df06901
-[18:27:43] [Server thread/INFO]: fnhmm[/127.0.0.1:51694] logged in with entity id 71 at (-1190.2837664850088, 100.0, -518.3825338048181)
-[18:27:43] [Server thread/INFO]: fnhmm joined the game
-[18:27:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2447ms or 48 ticks behind
-[18:30:39] [Server thread/INFO]: fnhmm was slain by Iron Golem
-[18:30:40] [Server thread/WARN]: fnhmm moved too quickly! -32.559231582638176,-1.0,-154.19999998807907
-[18:30:40] [Server thread/WARN]: fnhmm moved too quickly! -32.559231582638176,-1.0,-154.19999998807907
-[18:30:40] [Server thread/WARN]: fnhmm moved too quickly! -32.559231582638176,-1.0,-154.19999998807907
-[18:30:40] [Server thread/WARN]: fnhmm moved too quickly! -32.559231582638176,-1.0,-154.19999998807907
-[18:39:30] [Server thread/WARN]: Horse (vehicle of fnhmm) moved wrongly! 0.29949062743719423
-[18:40:44] [Server thread/INFO]: fnhmm lost connection: Disconnected
-[18:40:44] [Server thread/INFO]: fnhmm left the game
-[18:46:05] [User Authenticator #2/INFO]: UUID of player fnhmm is 7d41e46d-8d8e-44fb-b7cd-fa872df06901
-[18:46:05] [Server thread/INFO]: fnhmm[/127.0.0.1:51790] logged in with entity id 4201 at (-1228.3017578125, 100.8500000178814, -532.4450771936491)
-[18:46:05] [Server thread/INFO]: fnhmm joined the game
-[18:47:14] [Server thread/WARN]: Horse (vehicle of fnhmm) moved wrongly! 0.26387031054105137
-[18:47:57] [Server thread/WARN]: Horse (vehicle of fnhmm) moved wrongly! 0.3234749435789581
-[19:00:00] [Server thread/WARN]: Horse (vehicle of fnhmm) moved wrongly! 0.31871844382192194
-[19:01:34] [Server thread/WARN]: Horse (vehicle of fnhmm) moved wrongly! 0.29530646140096906
-[19:01:34] [Server thread/WARN]: Horse (vehicle of fnhmm) moved wrongly! 0.36983636915579154
-[19:03:02] [Server thread/WARN]: Horse (vehicle of fnhmm) moved wrongly! 0.26808925393743266
-[19:03:02] [Server thread/WARN]: Horse (vehicle of fnhmm) moved wrongly! 0.4741458190587764
-[19:03:02] [Server thread/WARN]: Horse (vehicle of fnhmm) moved wrongly! 0.48789675577313574
-[19:03:02] [Server thread/WARN]: Horse (vehicle of fnhmm) moved wrongly! 0.49525460784479947
-[19:03:02] [Server thread/WARN]: Horse (vehicle of fnhmm) moved wrongly! 0.4989969320986347
-[19:03:02] [Server thread/WARN]: Horse (vehicle of fnhmm) moved wrongly! 0.5007789627704824
-[19:03:02] [Server thread/WARN]: Horse (vehicle of fnhmm) moved wrongly! 0.501352554339519
-[19:03:02] [Server thread/WARN]: Horse (vehicle of fnhmm) moved wrongly! 0.501300406680457
-[19:03:02] [Server thread/WARN]: Horse (vehicle of fnhmm) moved wrongly! 0.5011159883242726
-[19:03:02] [Server thread/WARN]: Horse (vehicle of fnhmm) moved wrongly! 0.501017309738927
-[19:03:02] [Server thread/WARN]: Horse (vehicle of fnhmm) moved wrongly! 0.5009645087952777
-[19:03:02] [Server thread/WARN]: Horse (vehicle of fnhmm) moved wrongly! 0.5009362560631416
-[19:03:02] [Server thread/WARN]: Horse (vehicle of fnhmm) moved wrongly! 0.5009211385893195
-[19:03:02] [Server thread/WARN]: Horse (vehicle of fnhmm) moved wrongly! 0.500913049530709
-[19:03:02] [Server thread/WARN]: Horse (vehicle of fnhmm) moved wrongly! 0.5009087212365557
-[19:03:02] [Server thread/WARN]: Horse (vehicle of fnhmm) moved wrongly! 0.5014219855077044
-[19:03:02] [Server thread/WARN]: Horse (vehicle of fnhmm) moved wrongly! 0.5029476473839622
-[19:03:02] [Server thread/WARN]: Horse (vehicle of fnhmm) moved wrongly! 0.26797941645941137
-[19:05:21] [Server thread/WARN]: Horse (vehicle of fnhmm) moved wrongly! 0.3068443279410076
-[19:05:34] [Server thread/WARN]: Horse (vehicle of fnhmm) moved wrongly! 0.3064994916487649
-[19:10:11] [Server thread/INFO]: fnhmm lost connection: Disconnected
-[19:10:11] [Server thread/INFO]: fnhmm left the game
-[19:17:36] [User Authenticator #3/INFO]: UUID of player fnhmm is 7d41e46d-8d8e-44fb-b7cd-fa872df06901
-[19:17:36] [Server thread/INFO]: fnhmm[/127.0.0.1:52351] logged in with entity id 14071 at (-1225.5695214845762, 104.0, -510.6530313046078)
-[19:17:36] [Server thread/INFO]: fnhmm joined the game
-[19:45:40] [Server thread/INFO]: fnhmm has made the advancement [The End?]
-[19:45:42] [Server thread/INFO]: Scanning for legacy world dragon fight...
-[19:45:42] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
-[19:54:47] [Server thread/INFO]: fnhmm was slain by Enderman
-[19:55:21] [Server thread/INFO]: fnhmm fell out of the world
-[19:55:37] [Server thread/WARN]: fnhmm moved too quickly! 1195.3075379616907,65.39260454995134,1971.7930924631344
-[19:55:37] [Server thread/WARN]: Skipping player strafe phase because no player was found
-[19:58:42] [Server thread/INFO]: fnhmm has made the advancement [Free the End]
-[19:58:46] [Server thread/INFO]: fnhmm has reached the goal [You Need a Mint]
-[20:02:43] [Server thread/INFO]: fnhmm lost connection: Disconnected
-[20:02:43] [Server thread/INFO]: fnhmm left the game
-[20:07:49] [User Authenticator #4/INFO]: UUID of player fnhmm is 7d41e46d-8d8e-44fb-b7cd-fa872df06901
-[20:07:49] [Server thread/INFO]: fnhmm[/127.0.0.1:52622] logged in with entity id 23455 at (-1224.7248602991278, 103.9375, -514.0658139225884)
-[20:07:49] [Server thread/INFO]: fnhmm joined the game
-[20:31:43] [Server thread/INFO]: fnhmm lost connection: Disconnected
-[20:31:43] [Server thread/INFO]: fnhmm left the game
-[20:32:30] [User Authenticator #5/INFO]: UUID of player fnhmm is 7d41e46d-8d8e-44fb-b7cd-fa872df06901
-[20:32:30] [Server thread/INFO]: fnhmm[/127.0.0.1:52733] logged in with entity id 28831 at (-1188.4554002479674, 100.0625, -516.7408208824746)
-[20:32:30] [Server thread/INFO]: fnhmm joined the game
-[20:37:29] [Server thread/INFO]: fnhmm lost connection: Disconnected
-[20:37:29] [Server thread/INFO]: fnhmm left the game
-[20:41:21] [User Authenticator #6/INFO]: UUID of player fnhmm is 7d41e46d-8d8e-44fb-b7cd-fa872df06901
-[20:41:22] [Server thread/INFO]: fnhmm[/127.0.0.1:52790] logged in with entity id 30623 at (100.5, 49.0, 0.5)
-[20:41:22] [Server thread/INFO]: fnhmm joined the game
-[20:43:36] [Server thread/INFO]: fnhmm has made the advancement [Remote Getaway]
-[20:45:01] [Server thread/INFO]: fnhmm fell out of the world
-[20:48:08] [Server thread/INFO]: fnhmm was slain by Enderman
-[20:52:52] [Server thread/INFO]: fnhmm has made the advancement [The City at the End of the Game]
-[21:04:43] [Server thread/INFO]: fnhmm lost connection: Disconnected
-[21:04:43] [Server thread/INFO]: fnhmm left the game
-[21:38:53] [Server thread/INFO]: Stopping the server
-[21:38:53] [Server thread/INFO]: Stopping server
-[21:38:53] [Server thread/INFO]: Saving players
-[21:38:53] [Server thread/INFO]: Saving worlds
-[21:38:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:overworld
-[21:38:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:the_end
-[21:38:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:the_nether
-[21:38:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:38:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:38:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:38:54] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22:14:59] [ServerMain/INFO]: Building unoptimized datafixer
+[22:15:00] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[22:15:02] [ServerMain/INFO]: Loaded 7 recipes
+[22:15:02] [ServerMain/INFO]: Loaded 1179 advancements
+[22:15:03] [ServerMain/WARN]: Failed to parse level-type default, defaulting to minecraft:normal
+[22:15:03] [Server thread/INFO]: Starting minecraft server version 1.19.1
+[22:15:03] [Server thread/INFO]: Loading properties
+[22:15:03] [Server thread/INFO]: Default game type: SURVIVAL
+[22:15:03] [Server thread/INFO]: Generating keypair
+[22:15:03] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:15:03] [Server thread/INFO]: Using default channel type
+[22:15:03] [Server thread/INFO]: Preparing level "world"
+[22:15:03] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:15:06] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[22:15:06] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[22:15:07] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:15:07] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:15:07] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:15:07] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[22:15:07] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[22:15:07] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[22:15:07] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[22:15:08] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:15:08] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[22:15:09] [Worker-Main-7/INFO]: Preparing spawn area: 9%
+[22:15:09] [Worker-Main-11/INFO]: Preparing spawn area: 94%
+[22:15:09] [Server thread/INFO]: Time elapsed: 6030 ms
+[22:15:09] [Server thread/INFO]: Done (6.202s)! For help, type "help"
+[22:15:12] [User Authenticator #1/INFO]: UUID of player fnhmm is 7d41e46d-8d8e-44fb-b7cd-fa872df06901
+[22:15:13] [Server thread/INFO]: fnhmm[/127.0.0.1:62121] logged in with entity id 72 at (43.27756569661002, 109.0, -1224.4816557593076)
+[22:15:13] [Server thread/INFO]: fnhmm joined the game
+[22:21:29] [Server thread/INFO]: fnhmm fell from a high place
+[22:25:34] [Server thread/INFO]: fnhmm lost connection: Disconnected
+[22:25:34] [Server thread/INFO]: fnhmm left the game
+[22:27:49] [User Authenticator #2/INFO]: UUID of player fnhmm is 7d41e46d-8d8e-44fb-b7cd-fa872df06901
+[22:27:49] [Server thread/INFO]: fnhmm[/127.0.0.1:62173] logged in with entity id 1450 at (48.3702877301359, 49.0, -1161.0458189455237)
+[22:27:49] [Server thread/INFO]: fnhmm joined the game
+[22:33:46] [Server thread/INFO]: fnhmm has reached the goal [Sky's the Limit]
+[22:48:24] [Server thread/INFO]: fnhmm was slain by Enderman
+[22:52:39] [Server thread/INFO]: fnhmm lost connection: Disconnected
+[22:52:39] [Server thread/INFO]: fnhmm left the game
+[22:53:52] [User Authenticator #3/INFO]: UUID of player fnhmm is 7d41e46d-8d8e-44fb-b7cd-fa872df06901
+[22:53:52] [Server thread/INFO]: fnhmm[/127.0.0.1:63475] logged in with entity id 4911 at (47.475139155291316, 52.0, -1154.4018263955377)
+[22:53:52] [Server thread/INFO]: fnhmm joined the game
+[23:12:27] [Server thread/INFO]: fnhmm fell from a high place
+[23:24:54] [Server thread/WARN]: fnhmm moved wrongly!
+[23:25:04] [Server thread/INFO]: fnhmm was slain by Enderman
+[23:30:30] [Server thread/INFO]: fnhmm lost connection: Disconnected
+[23:30:30] [Server thread/INFO]: fnhmm left the game
+[23:31:35] [User Authenticator #4/INFO]: UUID of player fnhmm is 7d41e46d-8d8e-44fb-b7cd-fa872df06901
+[23:31:35] [Server thread/INFO]: fnhmm[/127.0.0.1:63374] logged in with entity id 9590 at (43.15818049441501, 65.0, -1242.3719418037317)
+[23:31:35] [Server thread/INFO]: fnhmm joined the game
+[23:56:56] [Server thread/WARN]: fnhmm moved wrongly!
+[23:59:22] [Server thread/INFO]: fnhmm lost connection: Disconnected
+[23:59:22] [Server thread/INFO]: fnhmm left the game
+[23:59:32] [Server thread/INFO]: Stopping the server
+[23:59:32] [Server thread/INFO]: Stopping server
+[23:59:32] [Server thread/INFO]: Saving players
+[23:59:32] [Server thread/INFO]: Saving worlds
+[23:59:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:overworld
+[23:59:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:the_end
+[23:59:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[xs1nuFox]'/minecraft:the_nether
+[23:59:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:59:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:59:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:59:33] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
